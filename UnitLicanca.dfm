@@ -1,0 +1,81 @@
+object FormLicenca: TFormLicenca
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'Arquivo de Licen'#231'as'
+  ClientHeight = 295
+  ClientWidth = 426
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -16
+  Font.Name = 'Segoe UI Light'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  OnClose = FormClose
+  PixelsPerInch = 96
+  TextHeight = 21
+  object Label1: TLabel
+    Left = 16
+    Top = 32
+    Width = 116
+    Height = 21
+    Caption = 'Local do Arquivo:'
+  end
+  object Label2: TLabel
+    Left = 16
+    Top = 90
+    Width = 136
+    Height = 21
+    Caption = 'Chave de seguran'#231'a'
+  end
+  object Label3: TLabel
+    Left = 16
+    Top = 147
+    Width = 58
+    Height = 21
+    Caption = 'Adcional'
+  end
+  object Edit1: TEdit
+    Left = 16
+    Top = 56
+    Width = 273
+    Height = 29
+    TabOrder = 0
+    Text = 'C:\Genoma\lic.dll'
+  end
+  object BitBtn1: TBitBtn
+    Left = 320
+    Top = 248
+    Width = 98
+    Height = 33
+    Caption = 'Carregar'
+    DoubleBuffered = True
+    ParentDoubleBuffered = False
+    TabOrder = 1
+    OnClick = BitBtn1Click
+  end
+  object Edit2: TEdit
+    Left = 16
+    Top = 112
+    Width = 321
+    Height = 29
+    TabOrder = 2
+    Text = 'bha4idtgc'#231'0a8316ydtrs047tgr4q20169756dwq530042016'
+  end
+  object Edit3: TEdit
+    Left = 16
+    Top = 169
+    Width = 321
+    Height = 29
+    TabOrder = 3
+    Text = 'dkk5$5321u8dsn8yq7786$&$%'#168'*GVVRD&%$&'
+  end
+  object QrParamGlobais: TADOQuery
+    Connection = Pai.Genoma
+    Parameters = <>
+    Left = 136
+    Top = 216
+  end
+end

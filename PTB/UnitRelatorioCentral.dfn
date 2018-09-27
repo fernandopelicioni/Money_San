@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Genoma\MONEY\UnitRelatorioCentral.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Genoma\MONEY\UnitRelatorioCentral.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40426.7618055556</prop>
+        <prop prop-type="OrigDateTime">40426.6637962963</prop>
+        <prop prop-type="XlatDateTime">40426.6637962963</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">234</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FormRelatorioCentral.Left" resname="O:FormRelatorioCentral.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Top" resname="O:FormRelatorioCentral.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.AlphaBlend" resname="O:FormRelatorioCentral.AlphaBlend">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173032</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.AlphaBlendValue" resname="O:FormRelatorioCentral.AlphaBlendValue">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.BorderStyle" resname="O:FormRelatorioCentral.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Caption" resname="O:FormRelatorioCentral.Caption">
+        <source>'Central de Relatórios'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.ClientHeight" resname="O:FormRelatorioCentral.ClientHeight">
+        <source>343</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.ClientWidth" resname="O:FormRelatorioCentral.ClientWidth">
+        <source>400</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Color" resname="O:FormRelatorioCentral.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Font.Charset" resname="O:FormRelatorioCentral.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Font.Color" resname="O:FormRelatorioCentral.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Font.Height" resname="O:FormRelatorioCentral.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Font.Name" resname="O:FormRelatorioCentral.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Font.Style" resname="O:FormRelatorioCentral.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.OldCreateOrder" resname="O:FormRelatorioCentral.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.Position" resname="O:FormRelatorioCentral.Position">
+        <source>poDesktopCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173148</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.OnActivate" resname="O:FormRelatorioCentral.OnActivate">
+        <source>FormActivate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.OnClose" resname="O:FormRelatorioCentral.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.PixelsPerInch" resname="O:FormRelatorioCentral.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.TextHeight" resname="O:FormRelatorioCentral.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TFormRelatorioCentral</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.Left" resname="O:FormRelatorioCentral.O:PageControl1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.Top" resname="O:FormRelatorioCentral.O:PageControl1.Top">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.Width" resname="O:FormRelatorioCentral.O:PageControl1.Width">
+        <source>384</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.Height" resname="O:FormRelatorioCentral.O:PageControl1.Height">
+        <source>234</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.ActivePage" resname="O:FormRelatorioCentral.O:PageControl1.ActivePage">
+        <source>TabSheet2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.MultiLine" resname="O:FormRelatorioCentral.O:PageControl1.MultiLine">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.Caption">
+        <source>'Resumo de Fechamento'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.OnShow" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.OnShow">
+        <source>TabSheet1Show</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Left">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Top">
+        <source>54</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Width">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label5.Caption">
+        <source>'Sistema:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Left">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Top">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173264</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Width">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label6.Caption">
+        <source>'Linha:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Width">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:Label7.Caption">
+        <source>'Caixa:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Left">
+        <source>214</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Top">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Width">
+        <source>159</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Height">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Hint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Hint">
+        <source>'Ajude o Meio Ambiente, Economize papel, faça sua consulta na tela...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Caption">
+        <source>'Impressão Consciente'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.DoubleBuffered" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Glyph.Data" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.Glyph.Data">
+        <source>360C0000424D360C000000000000360000002800000020000000200000000100180000000000000C0000130B0000130B00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD8D8D8CCCCCCD4D5D4D4D5D3D3D4D3D4D5D3D3D4D2D3D4D3D3D4D2D2D3D2D2D3D2D1D2D1D1D2D0D0D1D0D0D1CFCFD0CFCACACACFCFCFFEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA8A8A8E0E0E0E7E7E6E5E6E5E5E6E4E4E5E3E4E4E4E4E4E3E3E4E2E2E3E2E1E2E1E1E2E0E0E1DFE0E0DFDFE0DEDEDFDDDBDBDBA0A0A0FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB3B3B2F5F4F6B294C5A381BAA684BCA684BCA684BCA684BBA684BBA684BCA684BCA684BBA785BDA785BCA583BAAB8BC0F7F3F9B3B4B3FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBDBDBDE8E8E7AC8BC49166AD956BAE956BB0956BB0956BB2956CB4956CB5956BB89767C79864D59865D19466C0A27EC0EAE9EBB6B7B6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3D3D3DBDDDAC0A6D29A70B49E77B59E76B19D76AC9D75AA9E76AC9E76AB9E73AE9F74C7A1AFE8A07BDD9B69BDB594BBE2E3E1C9C9C9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD7D7D7D6D9D6C5AFCE9568A2986991996A8E9B6E929A6C8C96658095647E99688F9D6DA39F8CB39F6FB39A669ABC9EA9DCDEDDCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFC7F7F7F6C6C6C7474747979797E7E7E818181888888DBDFDFBFA6A577302B7B372E7D3931803F3A7F3C367B372E7B362D7E3A3183423C8847498D535882454CB3969AE2E5E48C8C8C8383838080807B7B7B777777717171676767D5D5D5F7F7F77B7B7B7474747474747575757575757676765A5A5A949697C3B2B07C342C7D37307E38307D372F7C372F7B362F77332D6C2B275B211E531C194C1917390A08A49595A5A6A6595959747474757575757575747474747474757575CECECEF3F3F38686867E7E7E7E7E7E7E7E7E7E7E7E8383834F4F4F22232376727156312D512B284E2A27442522402120412120391D1D341B1B2A16172916162513132011106D69692D2D2D4444448383837E7E7E7E7E7E7E7E7E7E7E7E7E7E7ED3D3D3F0F0F08B8B8B8888888888888888888888888E8E8E5E5E5E1212122627271B18181713131713131713131713141713141814141814141814131713121612121915152828281111115252528E8E8E888888888888888888888888888888D3D3D3EDEDED9393939393939393939393939393939898986F6F6F1C1C1C2323232323232222222222222222222222222222222222222222212222222221212222212323232424241B1B1B616161999999939393939393939393939393939393D4D4D4EAEAEA9E9E9E9E9E9E9E9E9E9E9E9E9E9E9EA2A2A28080802E2E2E3131313131313132323132323132323132323132323132323132323232323232323232323131313131312C2C2C747474A4A4A49E9E9E9E9E9E9E9E9E9E9E9E9E9E9ED6D6D6E7E7E7A7A7A7A8A8A8A8AAADA7A9ADA8A9AAABABAB9090903131313030303131313131313131313131313131313131313131313131313131313131313131313131313131312B2B2B848484ADADADA7A7A7A7A7A7A7A7A7A7A7A7A7A7A7D7D7D7E2E2E2A8A8A9A4A2A0A3957FA9987EA19B93AAAAAC9898983535353131313131313131313131313131313131313131313131313131313131313131313131313131313131313030308C8C8CABABABA7A7A7A7A7A7A7A7A7A7A7A7A8A8A8D5D5D5E1E1E1B2B5B7B2A39AD28E42E39E43BB9375BEC2C6B4B4B44040403636363B3B3B3D3D3D3E3E3E3F3F3F4040404040404040404040403F3F3F3E3E3E3D3D3D3B3B3B383838393939AAAAAAC0C0C0BBBBBBB9B9B9B8B8B8B5B5B5B3B3B3D7D7D7F9F9F9F2F2F3F5F2F2FBF5F4F9F6F5F9F3F2F9FAFAE9E9E95151514747474A4A4A4B4B4B4B4B4B4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4B4B4B4C4C4C4B4B4B4949494B4B4BE0E0E0FBFBFBF5F5F5F5F5F5F4F4F4F3F3F3F3F3F3F7F7F7FFFFFFF7F7F7F4F5F5F4F5F5F4F5F5F4F4F5FFFFFFB1B1B13F3F3F4646464646464646464646464646464646464646464646464646464646464646464747474747474747473F3F3F9C9C9CFFFFFFF4F4F4F4F4F4F4F4F4F5F5F5F6F6F6FEFEFEFFFFFFFAFAFAF2F2F2F2F2F2F2F2F2F8F8F8D4D4D44848483F3F3F424242424242424242424242424242424242424242424242424242424242434343454545454545454545444444404040B6B6B6FAFAFAF2F2F2F2F2F2F2F2F2F9F9F9FFFFFFFFFFFFFEFEFEF2F2F2F0F0F0F0F0F0F4F4F46B6B6B3535353F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3E3E3E4242424343434343434343434343433E3E3E525252E7E7E7F2F2F2F0F0F0F0F0F0FDFDFDFFFFFFFFFFFFFFFFFFF6F6F6ECECECEFEFEFE4E4E44A4A4A3838383B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3C3C3C4141414141414141414141414141413F3F3F464646D9D9D9F1F1F1ECECECF3F3F3FFFFFFFFFFFFFFFFFFFFFFFFFDFDFDEAEAEAEAEAEAEFEFEF6666663030303838383838383838383838383838383838383838383838383838383838383A3A3A4040404040404040404040404040403A3A3A636363EBEBEBEAEAEAE9E9E9FBFBFBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0E5E5E5F0F0F09999992A2A2A3535353535353535353535353535353535353535353535353535353434343A3A3A4040403F3F3F3F3F3F3F3F3F3F3F3F353535979797EFEFEFE5E5E5ECECECFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F9E1E1E1E6E6E6C8C8C83333332F2F2F3030303030303030303030303030303030303030303030303030303B3B3B3E3E3E3E3E3E3E3E3E3D3D3D3D3D3D3E3E3EC5C5C5E6E6E6E1E1E1F6F6F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE6E6E6DFDFDFE3E3E35A5A5A1D1D1D1313131414141515151515151515151515151515151515151818182727272828282828282828282727272D2D2D606060E0E0E0DFDFDFE2E2E2FEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFBF6F6F6F9F9F9DEDEDECBCBCBADADADA5A5A59E9E9E9B9B9B9898989595959292928F8F8F8D8D8D8D8D8D8B8B8B888888868686949494D0D0D0DEDEDEF8F8F8F6F6F6FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE8E8E8CECECEC8C8C8C3C3C3BFBFBFBBBBBBB7B7B7B3B3B3AFAFAFABABABA8A8A8A4A4A4A1A1A1C4C4C4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEEEEEEC7C7C7C2C2C2BEBEBEBABABAB6B6B6B2B2B2AEAEAEAAAAAAA8A8A8A7A7A7A3A3A39F9F9FD5D5D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6F6F6C7C7C7C2C2C2BEBEBEBABABAB6B6B6B2B2B2AEAEAEAAAAAAACACACABABABA6A6A6A3A3A3E5E5E5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCCFCFCFC5C5C5C1C1C1BDBDBDB9B9B9B5B5B5B1B1B1AEAEAEB3B3B3B0B0B0ADADADABABABF4F4F4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC4C4C4B0B0B0ACACACA8A8A8A4A4A4A0A0A09C9C9C9E9E9EA8A8A8A4A4A4A1A1A1A9A9A9FCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA2A2A25B5B5B5A5A5A5959595656565454545050506464647474746F6F6F6B6B6B969696FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD5D5D5B1B1B1B2B2B2B1B1B1B1B1B1B0B0B0AFAFAFB8B8B8BEBEBEBDBDBDBABABAD1D1D1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.ParentDoubleBuffered" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.ParentShowHint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817338</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.ShowHint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.OnClick" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:BitBtn4.OnClick">
+        <source>BitBtn4Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Left">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Top">
+        <source>67</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Width">
+        <source>341</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Charset" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Color" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Color">
+        <source>clGreen</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Name" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Style" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.KeyField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.KeyField">
+        <source>'TLI_DES'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.ListField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.ListField">
+        <source>'TLI_COD'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.ListSource" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.ListSource">
+        <source>DtSistema</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.ParentFont" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Left">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Top">
+        <source>115</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Width">
+        <source>341</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173495</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Charset" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Color" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Name" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Style" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.KeyField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.KeyField">
+        <source>'LIN_COD'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.ListField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.ListField">
+        <source>'LIN_DES'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.ListSource" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.ListSource">
+        <source>DtLinhas</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.ParentFont" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox3.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Left">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Width">
+        <source>341</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Charset" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Color" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Name" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173611</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Style" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.KeyField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.KeyField">
+        <source>'ACE_COD'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.ListField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.ListField">
+        <source>'ACE_DES'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.ListSource" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.ListSource">
+        <source>DtAcertador</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.ParentFont" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet1.O:DBLookupComboBox1.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.Caption">
+        <source>'Resumo Por Linhas'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.ImageIndex" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.ImageIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Left">
+        <source>214</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Top">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Width">
+        <source>159</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Height">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Hint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Hint">
+        <source>'Ajude o Meio Ambiente, Economize papel, faça sua consulta na tela...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Caption">
+        <source>'Impressão Consciente'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.DoubleBuffered" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Glyph.Data" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.Glyph.Data">
+        <source>360C0000424D360C000000000000360000002800000020000000200000000100180000000000000C0000130B0000130B00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD8D8D8CCCCCCD4D5D4D4D5D3D3D4D3D4D5D3D3D4D2D3D4D3D3D4D2D2D3D2D2D3D2D1D2D1D1D2D0D0D1D0D0D1CFCFD0CFCACACACFCFCFFEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA8A8A8E0E0E0E7E7E6E5E6E5E5E6E4E4E5E3E4E4E4E4E4E3E3E4E2E2E3E2E1E2E1E1E2E0E0E1DFE0E0DFDFE0DEDEDFDDDBDBDBA0A0A0FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB3B3B2F5F4F6B294C5A381BAA684BCA684BCA684BCA684BBA684BBA684BCA684BCA684BBA785BDA785BCA583BAAB8BC0F7F3F9B3B4B3FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBDBDBDE8E8E7AC8BC49166AD956BAE956BB0956BB0956BB2956CB4956CB5956BB89767C79864D59865D19466C0A27EC0EAE9EBB6B7B6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3D3D3DBDDDAC0A6D29A70B49E77B59E76B19D76AC9D75AA9E76AC9E76AB9E73AE9F74C7A1AFE8A07BDD9B69BDB594BBE2E3E1C9C9C9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD7D7D7D6D9D6C5AFCE9568A2986991996A8E9B6E929A6C8C96658095647E99688F9D6DA39F8CB39F6FB39A669ABC9EA9DCDEDDCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFC7F7F7F6C6C6C7474747979797E7E7E818181888888DBDFDFBFA6A577302B7B372E7D3931803F3A7F3C367B372E7B362D7E3A3183423C8847498D535882454CB3969AE2E5E48C8C8C8383838080807B7B7B777777717171676767D5D5D5F7F7F77B7B7B7474747474747575757575757676765A5A5A949697C3B2B07C342C7D37307E38307D372F7C372F7B362F77332D6C2B275B211E531C194C1917390A08A49595A5A6A6595959747474757575757575747474747474757575CECECEF3F3F38686867E7E7E7E7E7E7E7E7E7E7E7E8383834F4F4F22232376727156312D512B284E2A27442522402120412120391D1D341B1B2A16172916162513132011106D69692D2D2D4444448383837E7E7E7E7E7E7E7E7E7E7E7E7E7E7ED3D3D3F0F0F08B8B8B8888888888888888888888888E8E8E5E5E5E1212122627271B18181713131713131713131713141713141814141814141814131713121612121915152828281111115252528E8E8E888888888888888888888888888888D3D3D3EDEDED9393939393939393939393939393939898986F6F6F1C1C1C2323232323232222222222222222222222222222222222222222212222222221212222212323232424241B1B1B616161999999939393939393939393939393939393D4D4D4EAEAEA9E9E9E9E9E9E9E9E9E9E9E9E9E9E9EA2A2A28080802E2E2E3131313131313132323132323132323132323132323132323132323232323232323232323131313131312C2C2C747474A4A4A49E9E9E9E9E9E9E9E9E9E9E9E9E9E9ED6D6D6E7E7E7A7A7A7A8A8A8A8AAADA7A9ADA8A9AAABABAB9090903131313030303131313131313131313131313131313131313131313131313131313131313131313131313131312B2B2B848484ADADADA7A7A7A7A7A7A7A7A7A7A7A7A7A7A7D7D7D7E2E2E2A8A8A9A4A2A0A3957FA9987EA19B93AAAAAC9898983535353131313131313131313131313131313131313131313131313131313131313131313131313131313131313030308C8C8CABABABA7A7A7A7A7A7A7A7A7A7A7A7A8A8A8D5D5D5E1E1E1B2B5B7B2A39AD28E42E39E43BB9375BEC2C6B4B4B44040403636363B3B3B3D3D3D3E3E3E3F3F3F4040404040404040404040403F3F3F3E3E3E3D3D3D3B3B3B383838393939AAAAAAC0C0C0BBBBBBB9B9B9B8B8B8B5B5B5B3B3B3D7D7D7F9F9F9F2F2F3F5F2F2FBF5F4F9F6F5F9F3F2F9FAFAE9E9E95151514747474A4A4A4B4B4B4B4B4B4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4B4B4B4C4C4C4B4B4B4949494B4B4BE0E0E0FBFBFBF5F5F5F5F5F5F4F4F4F3F3F3F3F3F3F7F7F7FFFFFFF7F7F7F4F5F5F4F5F5F4F5F5F4F4F5FFFFFFB1B1B13F3F3F4646464646464646464646464646464646464646464646464646464646464646464747474747474747473F3F3F9C9C9CFFFFFFF4F4F4F4F4F4F4F4F4F5F5F5F6F6F6FEFEFEFFFFFFFAFAFAF2F2F2F2F2F2F2F2F2F8F8F8D4D4D44848483F3F3F424242424242424242424242424242424242424242424242424242424242434343454545454545454545444444404040B6B6B6FAFAFAF2F2F2F2F2F2F2F2F2F9F9F9FFFFFFFFFFFFFEFEFEF2F2F2F0F0F0F0F0F0F4F4F46B6B6B3535353F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3E3E3E4242424343434343434343434343433E3E3E525252E7E7E7F2F2F2F0F0F0F0F0F0FDFDFDFFFFFFFFFFFFFFFFFFF6F6F6ECECECEFEFEFE4E4E44A4A4A3838383B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3C3C3C4141414141414141414141414141413F3F3F464646D9D9D9F1F1F1ECECECF3F3F3FFFFFFFFFFFFFFFFFFFFFFFFFDFDFDEAEAEAEAEAEAEFEFEF6666663030303838383838383838383838383838383838383838383838383838383838383A3A3A4040404040404040404040404040403A3A3A636363EBEBEBEAEAEAE9E9E9FBFBFBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0E5E5E5F0F0F09999992A2A2A3535353535353535353535353535353535353535353535353535353434343A3A3A4040403F3F3F3F3F3F3F3F3F3F3F3F353535979797EFEFEFE5E5E5ECECECFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F9E1E1E1E6E6E6C8C8C83333332F2F2F3030303030303030303030303030303030303030303030303030303B3B3B3E3E3E3E3E3E3E3E3E3D3D3D3D3D3D3E3E3EC5C5C5E6E6E6E1E1E1F6F6F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE6E6E6DFDFDFE3E3E35A5A5A1D1D1D1313131414141515151515151515151515151515151515151818182727272828282828282828282727272D2D2D606060E0E0E0DFDFDFE2E2E2FEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFBF6F6F6F9F9F9DEDEDECBCBCBADADADA5A5A59E9E9E9B9B9B9898989595959292928F8F8F8D8D8D8D8D8D8B8B8B888888868686949494D0D0D0DEDEDEF8F8F8F6F6F6FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE8E8E8CECECEC8C8C8C3C3C3BFBFBFBBBBBBB7B7B7B3B3B3AFAFAFABABABA8A8A8A4A4A4A1A1A1C4C4C4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEEEEEEC7C7C7C2C2C2BEBEBEBABABAB6B6B6B2B2B2AEAEAEAAAAAAA8A8A8A7A7A7A3A3A39F9F9FD5D5D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6F6F6C7C7C7C2C2C2BEBEBEBABABAB6B6B6B2B2B2AEAEAEAAAAAAACACACABABABA6A6A6A3A3A3E5E5E5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCCFCFCFC5C5C5C1C1C1BDBDBDB9B9B9B5B5B5B1B1B1AEAEAEB3B3B3B0B0B0ADADADABABABF4F4F4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC4C4C4B0B0B0ACACACA8A8A8A4A4A4A0A0A09C9C9C9E9E9EA8A8A8A4A4A4A1A1A1A9A9A9FCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA2A2A25B5B5B5A5A5A5959595656565454545050506464647474746F6F6F6B6B6B969696FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD5D5D5B1B1B1B2B2B2B1B1B1B1B1B1B0B0B0AFAFAFB8B8B8BEBEBEBDBDBDBABABAD1D1D1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.ParentDoubleBuffered" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.ParentShowHint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173727</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.ShowHint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.OnClick" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet2.O:BitBtn3.OnClick">
+        <source>BitBtn3Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet3.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet3.Caption">
+        <source>'Resumo p/ Veículos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet3.ImageIndex" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet3.ImageIndex">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.Caption">
+        <source>'Boletins'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.ImageIndex" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.ImageIndex">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Width">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label3.Caption">
+        <source>'Sistema:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Top">
+        <source>72</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Width">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:Label4.Caption">
+        <source>'Linha:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Left">
+        <source>214</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Top">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Width">
+        <source>159</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173843</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Height">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Hint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Hint">
+        <source>'Ajude o Meio Ambiente, Economize papel, faça sua consulta na tela...'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Caption">
+        <source>'Impressão Consciente'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.DoubleBuffered" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Glyph.Data" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.Glyph.Data">
+        <source>360C0000424D360C000000000000360000002800000020000000200000000100180000000000000C0000130B0000130B00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD8D8D8CCCCCCD4D5D4D4D5D3D3D4D3D4D5D3D3D4D2D3D4D3D3D4D2D2D3D2D2D3D2D1D2D1D1D2D0D0D1D0D0D1CFCFD0CFCACACACFCFCFFEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA8A8A8E0E0E0E7E7E6E5E6E5E5E6E4E4E5E3E4E4E4E4E4E3E3E4E2E2E3E2E1E2E1E1E2E0E0E1DFE0E0DFDFE0DEDEDFDDDBDBDBA0A0A0FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB3B3B2F5F4F6B294C5A381BAA684BCA684BCA684BCA684BBA684BBA684BCA684BCA684BBA785BDA785BCA583BAAB8BC0F7F3F9B3B4B3FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBDBDBDE8E8E7AC8BC49166AD956BAE956BB0956BB0956BB2956CB4956CB5956BB89767C79864D59865D19466C0A27EC0EAE9EBB6B7B6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3D3D3DBDDDAC0A6D29A70B49E77B59E76B19D76AC9D75AA9E76AC9E76AB9E73AE9F74C7A1AFE8A07BDD9B69BDB594BBE2E3E1C9C9C9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD7D7D7D6D9D6C5AFCE9568A2986991996A8E9B6E929A6C8C96658095647E99688F9D6DA39F8CB39F6FB39A669ABC9EA9DCDEDDCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFC7F7F7F6C6C6C7474747979797E7E7E818181888888DBDFDFBFA6A577302B7B372E7D3931803F3A7F3C367B372E7B362D7E3A3183423C8847498D535882454CB3969AE2E5E48C8C8C8383838080807B7B7B777777717171676767D5D5D5F7F7F77B7B7B7474747474747575757575757676765A5A5A949697C3B2B07C342C7D37307E38307D372F7C372F7B362F77332D6C2B275B211E531C194C1917390A08A49595A5A6A6595959747474757575757575747474747474757575CECECEF3F3F38686867E7E7E7E7E7E7E7E7E7E7E7E8383834F4F4F22232376727156312D512B284E2A27442522402120412120391D1D341B1B2A16172916162513132011106D69692D2D2D4444448383837E7E7E7E7E7E7E7E7E7E7E7E7E7E7ED3D3D3F0F0F08B8B8B8888888888888888888888888E8E8E5E5E5E1212122627271B18181713131713131713131713141713141814141814141814131713121612121915152828281111115252528E8E8E888888888888888888888888888888D3D3D3EDEDED9393939393939393939393939393939898986F6F6F1C1C1C2323232323232222222222222222222222222222222222222222212222222221212222212323232424241B1B1B616161999999939393939393939393939393939393D4D4D4EAEAEA9E9E9E9E9E9E9E9E9E9E9E9E9E9E9EA2A2A28080802E2E2E3131313131313132323132323132323132323132323132323132323232323232323232323131313131312C2C2C747474A4A4A49E9E9E9E9E9E9E9E9E9E9E9E9E9E9ED6D6D6E7E7E7A7A7A7A8A8A8A8AAADA7A9ADA8A9AAABABAB9090903131313030303131313131313131313131313131313131313131313131313131313131313131313131313131312B2B2B848484ADADADA7A7A7A7A7A7A7A7A7A7A7A7A7A7A7D7D7D7E2E2E2A8A8A9A4A2A0A3957FA9987EA19B93AAAAAC9898983535353131313131313131313131313131313131313131313131313131313131313131313131313131313131313030308C8C8CABABABA7A7A7A7A7A7A7A7A7A7A7A7A8A8A8D5D5D5E1E1E1B2B5B7B2A39AD28E42E39E43BB9375BEC2C6B4B4B44040403636363B3B3B3D3D3D3E3E3E3F3F3F4040404040404040404040403F3F3F3E3E3E3D3D3D3B3B3B383838393939AAAAAAC0C0C0BBBBBBB9B9B9B8B8B8B5B5B5B3B3B3D7D7D7F9F9F9F2F2F3F5F2F2FBF5F4F9F6F5F9F3F2F9FAFAE9E9E95151514747474A4A4A4B4B4B4B4B4B4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4C4B4B4B4C4C4C4B4B4B4949494B4B4BE0E0E0FBFBFBF5F5F5F5F5F5F4F4F4F3F3F3F3F3F3F7F7F7FFFFFFF7F7F7F4F5F5F4F5F5F4F5F5F4F4F5FFFFFFB1B1B13F3F3F4646464646464646464646464646464646464646464646464646464646464646464747474747474747473F3F3F9C9C9CFFFFFFF4F4F4F4F4F4F4F4F4F5F5F5F6F6F6FEFEFEFFFFFFFAFAFAF2F2F2F2F2F2F2F2F2F8F8F8D4D4D44848483F3F3F424242424242424242424242424242424242424242424242424242424242434343454545454545454545444444404040B6B6B6FAFAFAF2F2F2F2F2F2F2F2F2F9F9F9FFFFFFFFFFFFFEFEFEF2F2F2F0F0F0F0F0F0F4F4F46B6B6B3535353F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3E3E3E4242424343434343434343434343433E3E3E525252E7E7E7F2F2F2F0F0F0F0F0F0FDFDFDFFFFFFFFFFFFFFFFFFF6F6F6ECECECEFEFEFE4E4E44A4A4A3838383B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3B3C3C3C4141414141414141414141414141413F3F3F464646D9D9D9F1F1F1ECECECF3F3F3FFFFFFFFFFFFFFFFFFFFFFFFFDFDFDEAEAEAEAEAEAEFEFEF6666663030303838383838383838383838383838383838383838383838383838383838383A3A3A4040404040404040404040404040403A3A3A636363EBEBEBEAEAEAE9E9E9FBFBFBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0E5E5E5F0F0F09999992A2A2A3535353535353535353535353535353535353535353535353535353434343A3A3A4040403F3F3F3F3F3F3F3F3F3F3F3F353535979797EFEFEFE5E5E5ECECECFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F9E1E1E1E6E6E6C8C8C83333332F2F2F3030303030303030303030303030303030303030303030303030303B3B3B3E3E3E3E3E3E3E3E3E3D3D3D3D3D3D3E3E3EC5C5C5E6E6E6E1E1E1F6F6F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE6E6E6DFDFDFE3E3E35A5A5A1D1D1D1313131414141515151515151515151515151515151515151818182727272828282828282828282727272D2D2D606060E0E0E0DFDFDFE2E2E2FEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFBF6F6F6F9F9F9DEDEDECBCBCBADADADA5A5A59E9E9E9B9B9B9898989595959292928F8F8F8D8D8D8D8D8D8B8B8B888888868686949494D0D0D0DEDEDEF8F8F8F6F6F6FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE8E8E8CECECEC8C8C8C3C3C3BFBFBFBBBBBBB7B7B7B3B3B3AFAFAFABABABA8A8A8A4A4A4A1A1A1C4C4C4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEEEEEEC7C7C7C2C2C2BEBEBEBABABAB6B6B6B2B2B2AEAEAEAAAAAAA8A8A8A7A7A7A3A3A39F9F9FD5D5D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6F6F6C7C7C7C2C2C2BEBEBEBABABAB6B6B6B2B2B2AEAEAEAAAAAAACACACABABABA6A6A6A3A3A3E5E5E5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCCFCFCFC5C5C5C1C1C1BDBDBDB9B9B9B5B5B5B1B1B1AEAEAEB3B3B3B0B0B0ADADADABABABF4F4F4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC4C4C4B0B0B0ACACACA8A8A8A4A4A4A0A0A09C9C9C9E9E9EA8A8A8A4A4A4A1A1A1A9A9A9FCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA2A2A25B5B5B5A5A5A5959595656565454545050506464647474746F6F6F6B6B6B969696FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD5D5D5B1B1B1B2B2B2B1B1B1B1B1B1B0B0B0AFAFAFB8B8B8BEBEBEBDBDBDBABABAD1D1D1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.ParentDoubleBuffered" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.ParentShowHint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.ShowHint" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.OnClick" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:BitBtn1.OnClick">
+        <source>BitBtn1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Left">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Top">
+        <source>37</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Width">
+        <source>341</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Charset" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Color" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Color">
+        <source>clGreen</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Name" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Style" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618173958</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.KeyField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.KeyField">
+        <source>'TLI_COD'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.ListField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.ListField">
+        <source>'TLI_DES'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.ListSource" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.ListSource">
+        <source>DtSistema</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.ParentFont" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboSistema.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Left" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Left">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Top" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Top">
+        <source>85</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Width" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Width">
+        <source>341</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Charset" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Color" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Height" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Name" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Style" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.KeyField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.KeyField">
+        <source>'LIN_COD'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.ListField" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.ListField">
+        <source>'LIN_DES'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.ListSource" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.ListSource">
+        <source>DtLinhas</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.ParentFont" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.TabOrder" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet4.O:ComboLinha.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet5.Caption" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet5.Caption">
+        <source>'Diversos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174074</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:PageControl1.O:TabSheet5.ImageIndex" resname="O:FormRelatorioCentral.O:PageControl1.O:TabSheet5.ImageIndex">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.Left" resname="O:FormRelatorioCentral.O:GroupBox1.Left">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.Top" resname="O:FormRelatorioCentral.O:GroupBox1.Top">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.Width" resname="O:FormRelatorioCentral.O:GroupBox1.Width">
+        <source>334</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.Height" resname="O:FormRelatorioCentral.O:GroupBox1.Height">
+        <source>59</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.Caption" resname="O:FormRelatorioCentral.O:GroupBox1.Caption">
+        <source>'Períodos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.TabOrder" resname="O:FormRelatorioCentral.O:GroupBox1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Left" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Left">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Top" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Width" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Width">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Height" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Caption" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label1.Caption">
+        <source>'Inicio:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Left" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Left">
+        <source>177</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Top" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Width" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Width">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Height" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Caption" resname="O:FormRelatorioCentral.O:GroupBox1.O:Label2.Caption">
+        <source>'Fim:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Left" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Left">
+        <source>12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Top" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Top">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Width" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Width">
+        <source>147</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761817419</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Height" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Date" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Date">
+        <source>40422.5125973727</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Time" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Time">
+        <source>40422.5125973727</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Charset" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Color" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Height" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Name" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Style" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.ParentFont" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.TabOrder" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Left" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Left">
+        <source>165</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Top" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Top">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Width" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Width">
+        <source>148</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Height" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Date" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Date">
+        <source>40422.5125973727</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Time" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Time">
+        <source>40422.5125973727</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Charset" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Color" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Height" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Name" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174306</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Style" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.ParentFont" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.TabOrder" resname="O:FormRelatorioCentral.O:GroupBox1.O:DateTimePicker2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TDateTimePicker</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.Left" resname="O:FormRelatorioCentral.O:BitBtn2.Left">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.Top" resname="O:FormRelatorioCentral.O:BitBtn2.Top">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.Width" resname="O:FormRelatorioCentral.O:BitBtn2.Width">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.Height" resname="O:FormRelatorioCentral.O:BitBtn2.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.Caption" resname="O:FormRelatorioCentral.O:BitBtn2.Caption">
+        <source>'Fechar'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.DoubleBuffered" resname="O:FormRelatorioCentral.O:BitBtn2.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.ParentDoubleBuffered" resname="O:FormRelatorioCentral.O:BitBtn2.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.TabOrder" resname="O:FormRelatorioCentral.O:BitBtn2.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:BitBtn2.OnClick" resname="O:FormRelatorioCentral.O:BitBtn2.OnClick">
+        <source>BitBtn2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtAcertador.DataSet" resname="O:FormRelatorioCentral.O:DtAcertador.DataSet">
+        <source>Pai.QrAcertador</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtAcertador.Left" resname="O:FormRelatorioCentral.O:DtAcertador.Left">
+        <source>288</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtAcertador.Top" resname="O:FormRelatorioCentral.O:DtAcertador.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtColigada.DataSet" resname="O:FormRelatorioCentral.O:DtColigada.DataSet">
+        <source>Pai.QrColigadas</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtColigada.Left" resname="O:FormRelatorioCentral.O:DtColigada.Left">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtColigada.Top" resname="O:FormRelatorioCentral.O:DtColigada.Top">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtSistema.DataSet" resname="O:FormRelatorioCentral.O:DtSistema.DataSet">
+        <source>Pai.QrTipLin</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtSistema.Left" resname="O:FormRelatorioCentral.O:DtSistema.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtSistema.Top" resname="O:FormRelatorioCentral.O:DtSistema.Top">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtLinhas.DataSet" resname="O:FormRelatorioCentral.O:DtLinhas.DataSet">
+        <source>Pai.QrLinhas</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174421</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtLinhas.Left" resname="O:FormRelatorioCentral.O:DtLinhas.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormRelatorioCentral.O:DtLinhas.Top" resname="O:FormRelatorioCentral.O:DtLinhas.Top">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618174537</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

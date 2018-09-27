@@ -1,0 +1,705 @@
+object Pai: TPai
+  OldCreateOrder = False
+  Height = 714
+  Width = 1091
+  object Genoma: TADOConnection
+    CommandTimeout = 10
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Password=14132;Persist Security Info=True;Us' +
+      'er ID=Gensoft;Initial Catalog=Genoma_GS;Data Source=DATACENTER\S' +
+      'QLEXPRESS;Use Procedure for Prepare=1;Auto Translate=True;Packet' +
+      ' Size=4096;Workstation ID=NOTEFERNANDO;Use Encryption for Data=F' +
+      'alse;Tag with column collation when possible=False'
+    ConnectionTimeout = 10
+    LoginPrompt = False
+    Provider = 'SQLOLEDB.1'
+    Left = 168
+    Top = 40
+  end
+  object QrMovBcd: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonMov')
+    Left = 16
+    Top = 128
+  end
+  object QrLinhas: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'coligada'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from Tb_MonLin'
+      'where Lin_Coligada =:coligada')
+    Left = 119
+    Top = 128
+  end
+  object QrTipLin: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'coligada'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from Tb_MonTipLin'
+      'Where Tli_coligada =:coligada')
+    Left = 172
+    Top = 128
+    object QrTipLinTLI_COD: TWordField
+      FieldName = 'TLI_COD'
+      ReadOnly = True
+    end
+    object QrTipLinTLI_DES: TStringField
+      FieldName = 'TLI_DES'
+      Size = 30
+    end
+    object QrTipLinTLI_TARIFAATUAL: TBCDField
+      FieldName = 'TLI_TARIFAATUAL'
+      DisplayFormat = 'R$ ##0.00'
+      Precision = 19
+    end
+    object QrTipLinTLI_TARIFAANTERIOR: TBCDField
+      FieldName = 'TLI_TARIFAANTERIOR'
+      DisplayFormat = 'R$ ##0.00'
+      Precision = 19
+    end
+    object QrTipLinTLI_TARIFADESCONTO: TBCDField
+      FieldName = 'TLI_TARIFADESCONTO'
+      DisplayFormat = 'R$ ##0.00'
+      Precision = 19
+    end
+    object QrTipLinTLI_TARIFADESCONTOANTERIOR: TBCDField
+      FieldName = 'TLI_TARIFADESCONTOANTERIOR'
+      DisplayFormat = 'R$ ##0.00'
+      Precision = 19
+    end
+    object QrTipLinTLI_COLIGADA: TWordField
+      FieldName = 'TLI_COLIGADA'
+    end
+    object QrTipLinTLI_TALAO: TWideStringField
+      FieldName = 'TLI_TALAO'
+      FixedChar = True
+      Size = 1
+    end
+  end
+  object QrAcertador: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonAce'
+      'WHERE ACE_STATUS = '#39'1'#39)
+    Left = 226
+    Top = 128
+  end
+  object QrVeiculos: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_Veiculos'
+      'Where Vei_IntMon = '#39'1'#39)
+    Left = 282
+    Top = 128
+  end
+  object QrVeiCat: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select Vei_Nun, Vei_Lacre FROM Tb_veiculos')
+    Left = 338
+    Top = 128
+  end
+  object QrLinhasCompletas: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'Select * from Tb_MonLin A, Tb_MonTipLin B, Tb_MonParam C'
+      'Where B.TLI_Cod = A.Lin_Tipo And C.Par_Cod = B.Tli_cod')
+    Left = 386
+    Top = 128
+  end
+  object QrParam: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonTipLin A, Tb_MonpARAM B'
+      'Where B.Par_Cod = A.Tli_cod')
+    Left = 16
+    Top = 184
+  end
+  object QrUsuarios: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'login'
+        DataType = ftWideString
+        NumericScale = 255
+        Precision = 255
+        Size = 20
+        Value = Null
+      end
+      item
+        Name = 'senha'
+        DataType = ftWideString
+        NumericScale = 255
+        Precision = 255
+        Size = 10
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from Tb_GAcess A'
+      'Join Tb_Usuarios B on B.Usu_Codigo = A.Tre_Usu'
+      'Where B.Usu_Login=:login'
+      'and B.Usu_Senha=:senha')
+    Left = 79
+    Top = 184
+    object QrUsuariosUSU_CODIGO: TWordField
+      FieldName = 'USU_CODIGO'
+      ReadOnly = True
+    end
+    object QrUsuariosUSU_LOGIN: TWideStringField
+      FieldName = 'USU_LOGIN'
+    end
+    object QrUsuariosUSU_SENHA: TWideStringField
+      FieldName = 'USU_SENHA'
+      Size = 50
+    end
+    object QrUsuariosUSU_PERFIL: TWideStringField
+      FieldName = 'USU_PERFIL'
+      Size = 5
+    end
+    object QrUsuariosUSU_NIVEL: TWordField
+      FieldName = 'USU_NIVEL'
+    end
+    object QrUsuariosTRE_COD: TSmallintField
+      FieldName = 'TRE_COD'
+      ReadOnly = True
+    end
+    object QrUsuariosTRE_USU: TWordField
+      FieldName = 'TRE_USU'
+    end
+    object QrUsuariosTRE_MESTRE: TWideStringField
+      FieldName = 'TRE_MESTRE'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_PEOPLE: TWideStringField
+      FieldName = 'TRE_PEOPLE'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CENTERBUS: TWideStringField
+      FieldName = 'TRE_CENTERBUS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CONTROLBUS: TWideStringField
+      FieldName = 'TRE_CONTROLBUS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_MONEY: TWideStringField
+      FieldName = 'TRE_MONEY'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CLOCK: TWideStringField
+      FieldName = 'TRE_CLOCK'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_COLABORADORES: TWideStringField
+      FieldName = 'TRE_COLABORADORES'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_TIPOATENDIMENTO: TWideStringField
+      FieldName = 'TRE_TIPOATENDIMENTO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CLINICASMEDICAS: TWideStringField
+      FieldName = 'TRE_CLINICASMEDICAS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_LABORATORIOS: TWideStringField
+      FieldName = 'TRE_LABORATORIOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_MEDICOS: TWideStringField
+      FieldName = 'TRE_MEDICOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_FUNCOES: TWideStringField
+      FieldName = 'TRE_FUNCOES'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CANDIDATOS: TWideStringField
+      FieldName = 'TRE_CANDIDATOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_BANCOTALENTOS: TWideStringField
+      FieldName = 'TRE_BANCOTALENTOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CENTRALRH: TWideStringField
+      FieldName = 'TRE_CENTRALRH'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_ANIVERSARIANTES: TWideStringField
+      FieldName = 'TRE_ANIVERSARIANTES'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_LIVROEXPERIENCIA: TWideStringField
+      FieldName = 'TRE_LIVROEXPERIENCIA'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CURSOS: TWideStringField
+      FieldName = 'TRE_CURSOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_EXAMESCANDIDATOS: TWideStringField
+      FieldName = 'TRE_EXAMESCANDIDATOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_ATENDIMENTOPERSONALIZADO: TWideStringField
+      FieldName = 'TRE_ATENDIMENTOPERSONALIZADO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_HISTORICOADVERETNCIA: TWideStringField
+      FieldName = 'TRE_HISTORICOADVERETNCIA'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_INTEGRACORPORE: TWideStringField
+      FieldName = 'TRE_INTEGRACORPORE'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_DEPARTAMENTO: TWideStringField
+      FieldName = 'TRE_DEPARTAMENTO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CONSULTACOLABORADORES: TWideStringField
+      FieldName = 'TRE_CONSULTACOLABORADORES'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CONVOCAR: TWideStringField
+      FieldName = 'TRE_CONVOCAR'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CENTRALOPERACIONAL: TWideStringField
+      FieldName = 'TRE_CENTRALOPERACIONAL'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_PM: TWideStringField
+      FieldName = 'TRE_PM'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_PROBLEMASOPERACAO: TWideStringField
+      FieldName = 'TRE_PROBLEMASOPERACAO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_HABILITACAO: TWideStringField
+      FieldName = 'TRE_HABILITACAO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_FICHAFUNCIONAL: TWideStringField
+      FieldName = 'TRE_FICHAFUNCIONAL'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_EMISSAOEXAMES: TWideStringField
+      FieldName = 'TRE_EMISSAOEXAMES'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CENTRALMEDICA: TWideStringField
+      FieldName = 'TRE_CENTRALMEDICA'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_EXAMESCADASTRADOS: TWideStringField
+      FieldName = 'TRE_EXAMESCADASTRADOS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_EXAMESPENDENTES: TWideStringField
+      FieldName = 'TRE_EXAMESPENDENTES'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_CONTROLEACESSO: TWideStringField
+      FieldName = 'TRE_CONTROLEACESSO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_EXAMECANDIDATO: TWideStringField
+      FieldName = 'TRE_EXAMECANDIDATO'
+      FixedChar = True
+      Size = 1
+    end
+    object QrUsuariosTRE_COLIGADA: TWordField
+      FieldName = 'TRE_COLIGADA'
+    end
+    object QrUsuariosUSU_MODULO: TWideStringField
+      FieldName = 'USU_MODULO'
+      Size = 5
+    end
+    object QrUsuariosUSU_STILO: TWideStringField
+      FieldName = 'USU_STILO'
+      Size = 50
+    end
+    object QrUsuariosUSU_ATIVO: TWideStringField
+      FieldName = 'USU_ATIVO'
+      FixedChar = True
+      Size = 1
+    end
+  end
+  object QrColigadas: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'Select * from Tb_Coligadas')
+    Left = 64
+    Top = 128
+    object QrColigadasCOD_COLIGADA: TWordField
+      FieldName = 'COD_COLIGADA'
+    end
+    object QrColigadasDES_COLIGADA: TWideStringField
+      FieldName = 'DES_COLIGADA'
+      FixedChar = True
+      Size = 50
+    end
+    object QrColigadasCGC_COLIGADA: TWideStringField
+      FieldName = 'CGC_COLIGADA'
+      FixedChar = True
+      Size = 18
+    end
+    object QrColigadasLOGO: TBlobField
+      FieldName = 'LOGO'
+    end
+    object QrColigadasPERFIL: TWideStringField
+      FieldName = 'PERFIL'
+      FixedChar = True
+      Size = 1
+    end
+  end
+  object QrProfissionais: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select Nom_pro, Cod_pro, Cha_pro FROM TB_Profissionais')
+    Left = 146
+    Top = 184
+  end
+  object QrTipLinCompl: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'coligada'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from Tb_MonTipLin'
+      'where tli_coligada=:coligada')
+    Left = 212
+    Top = 184
+  end
+  object QrVales: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'Select * from tb_Vales')
+    Left = 482
+    Top = 128
+  end
+  object QrPro: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'coligada'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select Nom_pro, Cod_pro, Cha_pro FROM TB_Profissionais'
+      'where ativo_pro = '#39'A'#39
+      'And Dep_pro = '#39'1'#39
+      'and cod_coligada=:coligada'
+      'Order by Nom_pro')
+    Left = 578
+    Top = 128
+  end
+  object QrPmc: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'Select * from tb_CbPmc')
+    Left = 436
+    Top = 128
+  end
+  object QrCaixa: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'Select * from tb_MonCaixa')
+    Left = 530
+    Top = 128
+  end
+  object QrMotCan: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonMotCanBcd'
+      'where MCb_Status = '#39'1'#39)
+    Left = 273
+    Top = 184
+  end
+  object QrTaloes: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonTaloes'
+      'where TTl_status = '#39'A'#39)
+    Left = 332
+    Top = 184
+  end
+  object QrTemp: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonTaloes'
+      'where TTl_status = '#39'A'#39)
+    Left = 388
+    Top = 185
+  end
+  object QrBcd: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'Select * from tb_monBcd where TBcd_Status = '#39'A'#39)
+    Left = 624
+    Top = 128
+    object QrBcdTBCD_COD: TIntegerField
+      FieldName = 'TBCD_COD'
+    end
+    object QrBcdTBCD_DATA: TDateTimeField
+      FieldName = 'TBCD_DATA'
+    end
+    object QrBcdTBCD_FUNC: TSmallintField
+      FieldName = 'TBCD_FUNC'
+    end
+    object QrBcdTBCD_LINHA: TIntegerField
+      FieldName = 'TBCD_LINHA'
+    end
+    object QrBcdTBCD_DTSIS: TDateTimeField
+      FieldName = 'TBCD_DTSIS'
+    end
+    object QrBcdTBCD_COLIGADA: TWordField
+      FieldName = 'TBCD_COLIGADA'
+    end
+    object QrBcdTBCD_STATUS: TWideStringField
+      FieldName = 'TBCD_STATUS'
+      FixedChar = True
+      Size = 1
+    end
+    object QrBcdTBCD_TIPO: TWideStringField
+      FieldName = 'TBCD_TIPO'
+      FixedChar = True
+      Size = 1
+    end
+  end
+  object QrDebitos: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      
+        'select Substring((B.Cha_Pro),5,4) as chapa, B.Nom_pro, Mdf_Valor' +
+        ',Mdf_data, Mdf_Status, Mdf_DtRec, Mdf_Usuario, Mdf_MotBaixa, Mdf' +
+        '_Cod from tb_mondebito A'
+      'Left Join Tb_Profissionais B On B.Cod_Pro = A.Mdf_Chapa'
+      'Where A.Mdf_Status = '#39'A'#39)
+    Left = 436
+    Top = 185
+    object QrDebitoschapa: TWideStringField
+      FieldName = 'chapa'
+      ReadOnly = True
+      Size = 4
+    end
+    object QrDebitosNom_pro: TWideStringField
+      FieldName = 'Nom_pro'
+      Size = 50
+    end
+    object QrDebitosMdf_Valor: TBCDField
+      FieldName = 'Mdf_Valor'
+      DisplayFormat = 'R$ 0.00'
+      Precision = 19
+    end
+    object QrDebitosMdf_data: TDateTimeField
+      FieldName = 'Mdf_data'
+    end
+    object QrDebitosMdf_Status: TWideStringField
+      FieldName = 'Mdf_Status'
+      FixedChar = True
+      Size = 1
+    end
+    object QrDebitosMdf_DtRec: TDateTimeField
+      FieldName = 'Mdf_DtRec'
+    end
+    object QrDebitosMdf_Usuario: TWordField
+      FieldName = 'Mdf_Usuario'
+    end
+    object QrDebitosMdf_MotBaixa: TWordField
+      FieldName = 'Mdf_MotBaixa'
+    end
+    object QrDebitosMdf_Cod: TSmallintField
+      FieldName = 'Mdf_Cod'
+      ReadOnly = True
+    end
+  end
+  object QrMotDebito: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <>
+    SQL.Strings = (
+      'select * from Tb_MonMotDebito')
+    Left = 492
+    Top = 185
+  end
+  object QrAcessos: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'usuario'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from Tb_GAcess A'
+      'Join Tb_Usuarios B on B.Usu_Codigo = A.Tre_Usu'
+      'Where (B.Usu_Login = '#39'MESTRE'#39'  OR A.Tre_Mestre = '#39'1'#39')'
+      'and B.Usu_Codigo =:usuario')
+    Left = 532
+    Top = 185
+  end
+  object Corpore: TADOConnection
+    CommandTimeout = 10
+    ConnectionString = 
+      'Provider=SQLOLEDB.1;Password=14132;Persist Security Info=True;Us' +
+      'er ID=GENSOFT;Initial Catalog=CorporeRM;Data Source=192.168.0.1;' +
+      'Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096' +
+      ';Workstation ID=NOTEFERNANDO;Use Encryption for Data=False;Tag w' +
+      'ith column collation when possible=False'
+    ConnectionTimeout = 10
+    LoginPrompt = False
+    Provider = 'SQLOLEDB.1'
+    Left = 280
+    Top = 40
+  end
+  object QrAtivacao: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'usuario'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from Tb_paramGlobais'
+      '')
+    Left = 588
+    Top = 185
+    object QrAtivacaoID: TIntegerField
+      FieldName = 'ID'
+    end
+    object QrAtivacaoCHAVE: TWideStringField
+      FieldName = 'CHAVE'
+      Size = 50
+    end
+    object QrAtivacaoAPP: TWideStringField
+      FieldName = 'APP'
+      Size = 50
+    end
+    object QrAtivacaoATIVACAO: TDateTimeField
+      FieldName = 'ATIVACAO'
+    end
+  end
+  object QrCadastraPro: TADOQuery
+    Connection = Genoma
+    CursorType = ctStatic
+    Parameters = <
+      item
+        Name = 'coligada'
+        DataType = ftWord
+        Precision = 3
+        Size = 1
+        Value = Null
+      end>
+    SQL.Strings = (
+      'select * from tb_profissionais'
+      'where cod_coligada=:coligada')
+    Left = 18
+    Top = 240
+  end
+end

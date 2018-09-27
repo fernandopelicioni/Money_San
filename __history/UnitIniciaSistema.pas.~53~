@@ -1,0 +1,203 @@
+unit UnitIniciaSistema;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, DB, DBCtrls, ExtCtrls, StdCtrls, Buttons, jpeg, XPMan, ActnMan,
+  ActnColorMaps, pngimage, BDE;
+
+type
+  TFormIniciaSistema = class(TForm)
+    DtColigada: TDataSource;
+    DtUsuarios: TDataSource;
+    Label17: TLabel;
+    Label18: TLabel;
+    DtAtivacao: TDataSource;
+    Fundo: TImage;
+    BitBtn1: TBitBtn;
+    BitBtn2: TBitBtn;
+    EditColigada: TDBLookupComboBox;
+    Edit2: TEdit;
+    Edit1: TEdit;
+    Label9: TLabel;
+    Label15: TLabel;
+    Label21: TLabel;
+    BtEntrar: TImage;
+    BtSair: TImage;
+    Image2: TImage;
+    Label6: TLabel;
+    Label19: TLabel;
+    editversao: TLabel;
+    Label1: TLabel;
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure BitBtn1Click(Sender: TObject);
+    procedure BitBtn2Click(Sender: TObject);
+    procedure FormShow(Sender: TObject);
+    procedure Edit1KeyPress(Sender: TObject; var Key: Char);
+    procedure Edit2KeyPress(Sender: TObject; var Key: Char);
+    procedure Edit1Enter(Sender: TObject);
+    procedure EditColigadaKeyPress(Sender: TObject; var Key: Char);
+    procedure FormActivate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+  Coligada:string;
+    { Public declarations }
+  end;
+
+var
+  FormIniciaSistema: TFormIniciaSistema;
+
+implementation
+
+uses telaentrada, UnPai, UnitRelatorio;
+
+
+{$R *.dfm}
+
+procedure TFormIniciaSistema.BitBtn1Click(Sender: TObject);
+begin
+//Devo colocar restrição de senhas aqui
+Screen.Cursor:=Crhourglass;
+if EditColigada.Text = '' then
+    begin
+    MessageBox(Handle,'Você precisa selecionar uma coligada !!!                                    '+#13+#13+#13+#13+#13+#13+#13+'Tente novamente !','Atenção !!!', MB_OK + MB_OK);
+    Edit1.SetFocus;
+    end
+    Else
+    begin
+    with Pai.QrUsuarios do
+        begin
+            Close;
+            Parameters.ParamByName('login').Value:=Edit1.Text;
+            Parameters.ParamByName('senha').Value:=Edit2.Text;
+//            Sql.Clear;
+//            Sql.Add('Select * From Tb_Usuarios where USu_Login = ' + QuotedStr(Edit1.Text) + ' and Usu_Senha = ' + QuotedStr(Edit2.Text));
+            Open;
+            if not eof then
+                begin
+                     if (Pai.QrUsuarios.FieldByName('Tre_Mestre').AsString = '1') or
+                        (Pai.QrUsuarios.FieldByName('Tre_People').AsString = '1') then
+                             Begin
+                                   Hide;
+                                   Application.CreateForm(TFormEntrada,FormEntrada);
+                                   FormEntrada.nivel:=StrToInt(Pai.QrUsuarios.FieldByName('usu_Nivel').AsString);
+                                   FormEntrada.DadosColigada.Click;
+                                   Coligada:=DtColigada.DataSet.FieldByName('cod_coligada').AsString;
+                                   FormEntrada.Show;
+                             End
+                             ELSE BEGIN
+                                   MessageBox(Handle,'Você não esta autorizado para Logar nesta Coligada, Selecione Outra !','Acesso Negado',Mb_IconInformation+Mb_Ok);
+                                   EditColigada.KeyValue:=null;
+                                   Edit1.SetFocus;
+                             END
+                End
+                Else
+                     begin
+                             ShowMessage('Login ou Senha Falhou, tente de Novo !!!');
+                             Edit1.Text:='';
+                             Edit2.Text:='';
+                             Edit1.SetFocus;
+                     end
+        end;
+
+        end;
+Screen.Cursor:=CrDefault;
+end;
+
+procedure TFormIniciaSistema.BitBtn2Click(Sender: TObject);
+begin
+Application.Terminate;
+Close;
+end;
+
+procedure TFormIniciaSistema.Edit1Enter(Sender: TObject);
+begin
+DtColigada.DataSet.Open;
+//DtAtivacao.DataSet.Open;
+
+end;
+
+procedure TFormIniciaSistema.Edit1KeyPress(Sender: TObject; var Key: Char);
+begin
+if key = #13 then
+  Begin
+    key:=#0;
+    Edit2.SetFocus;
+  End;
+end;
+
+procedure TFormIniciaSistema.Edit2KeyPress(Sender: TObject; var Key: Char);
+begin
+if key = #13 then
+  Begin
+    key:=#0;
+    EditColigada.SetFocus;
+  End;
+
+end;
+
+procedure TFormIniciaSistema.EditColigadaKeyPress(Sender: TObject;
+  var Key: Char);
+begin
+if key = #13 then
+   begin
+   key:=#0;
+   if editcoligada.KeyValue = Null then
+       begin
+        ShowMessage('Coligada não selecionada !');
+       end else
+       BitBtn1.click;
+   end;
+end;
+
+procedure TFormIniciaSistema.FormActivate(Sender: TObject);
+begin
+      label6.Caption:='Money - ' + editversao.Caption;
+
+//pai.genoma.Connected:=false;
+//Pai.Genoma.ConnectionString:=Relatorio.Carrega.Text;
+//Pai.Genoma.DefaultDatabase:='Genoma';
+//Pai.Genoma.Connected:=true;
+//Edit1.Text:='';
+//Edit2.Text:='';
+//Label5.Caption:=Pai.Genoma.DefaultDatabase;
+//DtColigada.DataSet.Open;
+//EditColigada.KeyValue:=null;
+
+end;
+
+procedure TFormIniciaSistema.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+      DtColigada.DataSet.Close;
+      DtUsuarios.DataSet.Close;
+      Pai.genoma.Close;
+      Application.Terminate;
+end;
+
+procedure TFormIniciaSistema.FormShow(Sender: TObject);
+begin
+
+pai.genoma.Connected:=false;
+        Pai.Genoma.ConnectionString:=Relatorio.Carrega.Text; // fechar
+        Pai.Genoma.DefaultDatabase:='Genoma';                //fechar
+Pai.Genoma.Connected:=true;
+
+pai.corpore.Connected:=false;
+
+        Pai.corpore.ConnectionString:=Relatorio.CarregaCorpore.Text;
+        Pai.corpore.DefaultDatabase:='CorporeRM';
+        Pai.corpore.Connected:=true;
+
+      Edit1.Text:='';
+      Edit2.Text:='';
+//      Label5.Caption:=Pai.Genoma.DefaultDatabase;
+      DtColigada.DataSet.Open;
+//      EditAtivacao.Caption:=DtAtivacao.DataSet.FieldByName('ATIVACAO').AsString;
+      EditColigada.KeyValue:=null;
+//      Label13.Caption:=DateToStr(Now);
+
+end;
+
+end.

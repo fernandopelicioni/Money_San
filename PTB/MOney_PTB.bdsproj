@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{D10DF6C0-89AE-47B4-B64A-A11CAA25D66D}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">MOney.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">1046</Options>
+      <Options Name="TargetName">..\MOney.PTB</Options>
+      <Options Name="BRCC_IncludePath"></Options>
+      <Options Name="Company"></Options>
+      <Options Name="Configuration"></Options>
+      <Options Name="Copyright"></Options>
+      <Options Name="Description"></Options>
+      <Options Name="Trademark"></Options>
+      <Options Name="Product"></Options>
+      <Options Name="ProductVersion"></Options>
+      <Options Name="Title"></Options>
+      <Options Name="FileVersion"></Options>
+      <Options Name="Evidence"></Options>
+      <Options Name="KeyFile"></Options>
+      <Options Name="KeyName"></Options>
+    </Options>
+    <FileList>
+      <File FileName="TelaConsultaBcd.dfm" ContainerId="W32Form" ModuleName="TelaConsultaBcd.dfm"/>
+      <File FileName="telaentrada.dfm" ContainerId="W32Form" ModuleName="telaentrada.dfm"/>
+      <File FileName="UnitCadastraCaixa.dfm" ContainerId="W32Form" ModuleName="UnitCadastraCaixa.dfm"/>
+      <File FileName="UnitCadastraLinha.dfm" ContainerId="W32Form" ModuleName="UnitCadastraLinha.dfm"/>
+      <File FileName="UnitCadastraParam.dfm" ContainerId="W32Form" ModuleName="UnitCadastraParam.dfm"/>
+      <File FileName="UnitCadastraTipoLinha.dfm" ContainerId="W32Form" ModuleName="UnitCadastraTipoLinha.dfm"/>
+      <File FileName="UnitCadastroVeiculos.dfm" ContainerId="W32Form" ModuleName="UnitCadastroVeiculos.dfm"/>
+      <File FileName="UnitConsultaveiculos.dfm" ContainerId="W32Form" ModuleName="UnitConsultaveiculos.dfm"/>
+      <File FileName="UnitDadosMov.dfm" ContainerId="W32Form" ModuleName="UnitDadosMov.dfm"/>
+      <File FileName="UnitIniciaSistema.dfm" ContainerId="W32Form" ModuleName="UnitIniciaSistema.dfm"/>
+      <File FileName="UnitLancamento.dfm" ContainerId="W32Form" ModuleName="UnitLancamento.dfm"/>
+      <File FileName="UnitRelatorio.dfm" ContainerId="W32Form" ModuleName="UnitRelatorio.dfm"/>
+      <File FileName="UnitRelatorioCentral.dfm" ContainerId="W32Form" ModuleName="UnitRelatorioCentral.dfm"/>
+      <File FileName="UnPai.dfm" ContainerId="W32Form" ModuleName="UnPai.dfm"/>
+      <File FileName="vcl\DBLOGDLG.dfm" ContainerId="W32Form" ModuleName="DBLOGDLG.dfm"/>
+      <File FileName="vcl\DBPWDLG.dfm" ContainerId="W32Form" ModuleName="DBPWDLG.dfm"/>
+      <File FileName="MOney_DRC.rc" ContainerId="W32RC" ModuleName="MOney_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

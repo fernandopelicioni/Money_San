@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Genoma\MONEY\UnPai.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Genoma\MONEY\UnPai.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40426.7618055556</prop>
+        <prop prop-type="OrigDateTime">40426.3735416667</prop>
+        <prop prop-type="XlatDateTime">40426.3735416667</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">120</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:Pai.OldCreateOrder" resname="O:Pai.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TPai</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.Height" resname="O:Pai.Height">
+        <source>517</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TPai</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.Width" resname="O:Pai.Width">
+        <source>978</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TPai</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:Genoma.Connected" resname="O:Pai.O:Genoma.Connected">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:Genoma.ConnectionString" resname="O:Pai.O:Genoma.ConnectionString">
+        <source>'Provider=SQLOLEDB.1;Password=brasil;Persist Security Info=True;User ID=fp;Initial Catalog=Pepple;Data Source=10.10.10.4;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Workstation ID=NOTEFERNANDO;Use Encryption for Data=False;Tag with column collation when possible=False'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:Genoma.LoginPrompt" resname="O:Pai.O:Genoma.LoginPrompt">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:Genoma.Provider" resname="O:Pai.O:Genoma.Provider">
+        <source>'SQLOLEDB.1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:Genoma.Left" resname="O:Pai.O:Genoma.Left">
+        <source>168</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:Genoma.Top" resname="O:Pai.O:Genoma.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrMovBcd.Connection" resname="O:Pai.O:QrMovBcd.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrMovBcd.CursorType" resname="O:Pai.O:QrMovBcd.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrMovBcd.Parameters" resname="O:Pai.O:QrMovBcd.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrMovBcd.SQL.Strings[0]" resname="O:Pai.O:QrMovBcd.SQL.Strings[0]">
+        <source>'select * from Tb_MonMov'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrMovBcd.Left" resname="O:Pai.O:QrMovBcd.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618203935</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrMovBcd.Top" resname="O:Pai.O:QrMovBcd.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhas.Connection" resname="O:Pai.O:QrLinhas.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhas.CursorType" resname="O:Pai.O:QrLinhas.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhas.Parameters" resname="O:Pai.O:QrLinhas.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhas.SQL.Strings[0]" resname="O:Pai.O:QrLinhas.SQL.Strings[0]">
+        <source>'select * from Tb_MonLin'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhas.Left" resname="O:Pai.O:QrLinhas.Left">
+        <source>119</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhas.Top" resname="O:Pai.O:QrLinhas.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.Connection" resname="O:Pai.O:QrTipLin.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.CursorType" resname="O:Pai.O:QrTipLin.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.Parameters" resname="O:Pai.O:QrTipLin.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.SQL.Strings[0]" resname="O:Pai.O:QrTipLin.SQL.Strings[0]">
+        <source>'select * from Tb_MonTipLin'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.Left" resname="O:Pai.O:QrTipLin.Left">
+        <source>172</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.Top" resname="O:Pai.O:QrTipLin.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_COD.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_COD.FieldName">
+        <source>'TLI_COD'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_COD.ReadOnly" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_COD.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_DES.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_DES.FieldName">
+        <source>'TLI_DES'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_DES.Size" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_DES.Size">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAATUAL.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAATUAL.FieldName">
+        <source>'TLI_TARIFAATUAL'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAATUAL.DisplayFormat" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAATUAL.DisplayFormat">
+        <source>'R$ ##0.00'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAATUAL.Precision" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAATUAL.Precision">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204051</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAANTERIOR.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAANTERIOR.FieldName">
+        <source>'TLI_TARIFAANTERIOR'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAANTERIOR.DisplayFormat" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAANTERIOR.DisplayFormat">
+        <source>'R$ ##0.00'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAANTERIOR.Precision" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFAANTERIOR.Precision">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTO.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTO.FieldName">
+        <source>'TLI_TARIFADESCONTO'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTO.DisplayFormat" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTO.DisplayFormat">
+        <source>'R$ ##0.00'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTO.Precision" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTO.Precision">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTOANTERIOR.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTOANTERIOR.FieldName">
+        <source>'TLI_TARIFADESCONTOANTERIOR'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTOANTERIOR.DisplayFormat" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTOANTERIOR.DisplayFormat">
+        <source>'R$ ##0.00'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTOANTERIOR.Precision" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_TARIFADESCONTOANTERIOR.Precision">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TBCDField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLin.O:QrTipLinTLI_COLIGADA.FieldName" resname="O:Pai.O:QrTipLin.O:QrTipLinTLI_COLIGADA.FieldName">
+        <source>'TLI_COLIGADA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrAcertador.Connection" resname="O:Pai.O:QrAcertador.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrAcertador.CursorType" resname="O:Pai.O:QrAcertador.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrAcertador.Parameters" resname="O:Pai.O:QrAcertador.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrAcertador.SQL.Strings[0]" resname="O:Pai.O:QrAcertador.SQL.Strings[0]">
+        <source>'select * from Tb_MonAce'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrAcertador.Left" resname="O:Pai.O:QrAcertador.Left">
+        <source>226</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrAcertador.Top" resname="O:Pai.O:QrAcertador.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.Connection" resname="O:Pai.O:QrVeiculos.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.CursorType" resname="O:Pai.O:QrVeiculos.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.Parameters" resname="O:Pai.O:QrVeiculos.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.SQL.Strings[0]" resname="O:Pai.O:QrVeiculos.SQL.Strings[0]">
+        <source>'select * from Tb_Veiculos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204167</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.SQL.Strings[1]" resname="O:Pai.O:QrVeiculos.SQL.Strings[1]">
+        <source>'Where Vei_IntMon = '#39'1'#39</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.Left" resname="O:Pai.O:QrVeiculos.Left">
+        <source>282</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiculos.Top" resname="O:Pai.O:QrVeiculos.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiCat.Connection" resname="O:Pai.O:QrVeiCat.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiCat.CursorType" resname="O:Pai.O:QrVeiCat.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiCat.Parameters" resname="O:Pai.O:QrVeiCat.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiCat.SQL.Strings[0]" resname="O:Pai.O:QrVeiCat.SQL.Strings[0]">
+        <source>'select * FROM Tb_MonCat'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiCat.Left" resname="O:Pai.O:QrVeiCat.Left">
+        <source>338</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrVeiCat.Top" resname="O:Pai.O:QrVeiCat.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.Connection" resname="O:Pai.O:QrLinhasCompletas.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.CursorType" resname="O:Pai.O:QrLinhasCompletas.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.Parameters" resname="O:Pai.O:QrLinhasCompletas.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.SQL.Strings[0]" resname="O:Pai.O:QrLinhasCompletas.SQL.Strings[0]">
+        <source>'Select * from Tb_MonLin A, Tb_MonTipLin B, Tb_MonParam C'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.SQL.Strings[1]" resname="O:Pai.O:QrLinhasCompletas.SQL.Strings[1]">
+        <source>'Where B.TLI_Cod = A.Lin_Tipo And C.Par_Cod = B.Tli_cod'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.Left" resname="O:Pai.O:QrLinhasCompletas.Left">
+        <source>386</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrLinhasCompletas.Top" resname="O:Pai.O:QrLinhasCompletas.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.Connection" resname="O:Pai.O:QrParam.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.CursorType" resname="O:Pai.O:QrParam.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.Parameters" resname="O:Pai.O:QrParam.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.SQL.Strings[0]" resname="O:Pai.O:QrParam.SQL.Strings[0]">
+        <source>'select * from Tb_MonTipLin A, Tb_MonpARAM B'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204282</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.SQL.Strings[1]" resname="O:Pai.O:QrParam.SQL.Strings[1]">
+        <source>'Where B.Par_Cod = A.Tli_cod'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.Left" resname="O:Pai.O:QrParam.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrParam.Top" resname="O:Pai.O:QrParam.Top">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.Connection" resname="O:Pai.O:QrUsuarios.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.CursorType" resname="O:Pai.O:QrUsuarios.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.Parameters" resname="O:Pai.O:QrUsuarios.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.SQL.Strings[0]" resname="O:Pai.O:QrUsuarios.SQL.Strings[0]">
+        <source>'select * from Tb_usuarios'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.Left" resname="O:Pai.O:QrUsuarios.Left">
+        <source>79</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.Top" resname="O:Pai.O:QrUsuarios.Top">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_CODIGO.FieldName" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_CODIGO.FieldName">
+        <source>'USU_CODIGO'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_CODIGO.ReadOnly" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_CODIGO.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_LOGIN.FieldName" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_LOGIN.FieldName">
+        <source>'USU_LOGIN'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_SENHA.FieldName" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_SENHA.FieldName">
+        <source>'USU_SENHA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_SENHA.Size" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_SENHA.Size">
+        <source>50</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_PERFIL.FieldName" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_PERFIL.FieldName">
+        <source>'USU_PERFIL'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_PERFIL.Size" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_PERFIL.Size">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_NIVEL.FieldName" resname="O:Pai.O:QrUsuarios.O:QrUsuariosUSU_NIVEL.FieldName">
+        <source>'USU_NIVEL'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.Connection" resname="O:Pai.O:QrColigadas.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.CursorType" resname="O:Pai.O:QrColigadas.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.Parameters" resname="O:Pai.O:QrColigadas.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.SQL.Strings[0]" resname="O:Pai.O:QrColigadas.SQL.Strings[0]">
+        <source>'Select * from Tb_Coligadas'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204398</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.Left" resname="O:Pai.O:QrColigadas.Left">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.Top" resname="O:Pai.O:QrColigadas.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasCOD_COLIGADA.FieldName" resname="O:Pai.O:QrColigadas.O:QrColigadasCOD_COLIGADA.FieldName">
+        <source>'COD_COLIGADA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TWordField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasDES_COLIGADA.FieldName" resname="O:Pai.O:QrColigadas.O:QrColigadasDES_COLIGADA.FieldName">
+        <source>'DES_COLIGADA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasDES_COLIGADA.FixedChar" resname="O:Pai.O:QrColigadas.O:QrColigadasDES_COLIGADA.FixedChar">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasDES_COLIGADA.Size" resname="O:Pai.O:QrColigadas.O:QrColigadasDES_COLIGADA.Size">
+        <source>50</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasCGC_COLIGADA.FieldName" resname="O:Pai.O:QrColigadas.O:QrColigadasCGC_COLIGADA.FieldName">
+        <source>'CGC_COLIGADA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasCGC_COLIGADA.FixedChar" resname="O:Pai.O:QrColigadas.O:QrColigadasCGC_COLIGADA.FixedChar">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasCGC_COLIGADA.Size" resname="O:Pai.O:QrColigadas.O:QrColigadasCGC_COLIGADA.Size">
+        <source>18</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasLOGO.FieldName" resname="O:Pai.O:QrColigadas.O:QrColigadasLOGO.FieldName">
+        <source>'LOGO'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TBlobField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasPERFIL.FieldName" resname="O:Pai.O:QrColigadas.O:QrColigadasPERFIL.FieldName">
+        <source>'PERFIL'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasPERFIL.FixedChar" resname="O:Pai.O:QrColigadas.O:QrColigadasPERFIL.FixedChar">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrColigadas.O:QrColigadasPERFIL.Size" resname="O:Pai.O:QrColigadas.O:QrColigadasPERFIL.Size">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrProfissionais.Connection" resname="O:Pai.O:QrProfissionais.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrProfissionais.CursorType" resname="O:Pai.O:QrProfissionais.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrProfissionais.Parameters" resname="O:Pai.O:QrProfissionais.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrProfissionais.SQL.Strings[0]" resname="O:Pai.O:QrProfissionais.SQL.Strings[0]">
+        <source>'select Nom_pro, Cod_pro, Cha_pro FROM TB_Profissionais'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrProfissionais.Left" resname="O:Pai.O:QrProfissionais.Left">
+        <source>146</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrProfissionais.Top" resname="O:Pai.O:QrProfissionais.Top">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLinCompl.Connection" resname="O:Pai.O:QrTipLinCompl.Connection">
+        <source>Genoma</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLinCompl.CursorType" resname="O:Pai.O:QrTipLinCompl.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7618204514</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLinCompl.Parameters" resname="O:Pai.O:QrTipLinCompl.Parameters">
+        <source>&lt;&gt;</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761820463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLinCompl.SQL.Strings[0]" resname="O:Pai.O:QrTipLinCompl.SQL.Strings[0]">
+        <source>'select * from Tb_MonTipLin'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761820463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLinCompl.Left" resname="O:Pai.O:QrTipLinCompl.Left">
+        <source>212</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761820463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:Pai.O:QrTipLinCompl.Top" resname="O:Pai.O:QrTipLinCompl.Top">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.761820463</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TADOQuery</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

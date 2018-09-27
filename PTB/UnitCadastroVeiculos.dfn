@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Genoma\MONEY\UnitCadastroVeiculos.dfm" source-language="pt-BR" target-language="pt-BR" datatype="delphiform" tool="ETM v10.0" ts="C:\Genoma\MONEY\UnitCadastroVeiculos.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">40426.761712963</prop>
+        <prop prop-type="OrigDateTime">40426.6616666667</prop>
+        <prop prop-type="XlatDateTime">40426.6616666667</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">205</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:FormCadastroVeiculos.Left" resname="O:FormCadastroVeiculos.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327083</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Top" resname="O:FormCadastroVeiculos.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.BorderStyle" resname="O:FormCadastroVeiculos.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Caption" resname="O:FormCadastroVeiculos.Caption">
+        <source>'Integração entre Módulos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.ClientHeight" resname="O:FormCadastroVeiculos.ClientHeight">
+        <source>443</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.ClientWidth" resname="O:FormCadastroVeiculos.ClientWidth">
+        <source>376</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Color" resname="O:FormCadastroVeiculos.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Font.Charset" resname="O:FormCadastroVeiculos.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Font.Color" resname="O:FormCadastroVeiculos.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Font.Height" resname="O:FormCadastroVeiculos.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Font.Name" resname="O:FormCadastroVeiculos.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Font.Style" resname="O:FormCadastroVeiculos.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.OldCreateOrder" resname="O:FormCadastroVeiculos.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.Position" resname="O:FormCadastroVeiculos.Position">
+        <source>poDesktopCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.OnActivate" resname="O:FormCadastroVeiculos.OnActivate">
+        <source>FormActivate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.OnClose" resname="O:FormCadastroVeiculos.OnClose">
+        <source>FormClose</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.PixelsPerInch" resname="O:FormCadastroVeiculos.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.TextHeight" resname="O:FormCadastroVeiculos.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TFormCadastroVeiculos</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.Top">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.Width">
+        <source>357</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.Height">
+        <source>73</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327199</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.Caption" resname="O:FormCadastroVeiculos.O:GroupBox1.Caption">
+        <source>'Habilitação de Veículos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.TabOrder" resname="O:FormCadastroVeiculos.O:GroupBox1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Left">
+        <source>238</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Top">
+        <source>37</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.Height">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.DataField" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.DataField">
+        <source>'CAT_DATA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.DataSource" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBText3.DataSource">
+        <source>DtCat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Top">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Width">
+        <source>42</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Caption" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label5.Caption">
+        <source>'Catraca:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Left">
+        <source>124</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Top">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Caption" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label6.Caption">
+        <source>'Lacre:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Left">
+        <source>234</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Top">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327315</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Width">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Caption" resname="O:FormCadastroVeiculos.O:GroupBox1.O:Label7.Caption">
+        <source>'Data Ult. Atual.'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Width">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.DataField" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.DataField">
+        <source>'CAT_CAT'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.DataSource" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.DataSource">
+        <source>DtCat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Charset" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Color" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Name" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Style" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.ParentFont" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.TabOrder" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Left" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Left">
+        <source>122</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Top" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Width" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Width">
+        <source>102</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327431</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.DataField" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.DataField">
+        <source>'CAT_LACRE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.DataSource" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.DataSource">
+        <source>DtCat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Charset" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Color" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Height" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Name" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Style" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.ParentFont" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.TabOrder" resname="O:FormCadastroVeiculos.O:GroupBox1.O:DBEdit2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TDBEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.Width">
+        <source>353</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.Height">
+        <source>98</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.Caption" resname="O:FormCadastroVeiculos.O:GroupBox2.Caption">
+        <source>'Veículos Cadastrados'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.TabOrder" resname="O:FormCadastroVeiculos.O:GroupBox2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Left">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Top">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Width">
+        <source>338</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.Height">
+        <source>75</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.TabOrder" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TPanel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327546</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Top">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Width">
+        <source>37</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Caption" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label2.Caption">
+        <source>'Veículo:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Left">
+        <source>155</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Top">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Height">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.AutoSize" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.AutoSize">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.DataField" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.DataField">
+        <source>'VEI_PLACA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.DataSource" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.DataSource">
+        <source>DtVeiculos</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Charset" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Color" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Color">
+        <source>clGreen</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Name" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Style" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.ParentFont" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Left">
+        <source>155</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Top">
+        <source>50</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Width">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327662</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Height">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.AutoSize" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.AutoSize">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.DataField" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.DataField">
+        <source>'VEI_CHASSINUM'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.DataSource" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.DataSource">
+        <source>DtVeiculos</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Charset" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Color" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Color">
+        <source>clGreen</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Height">
+        <source>-12</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Name" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Style" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.ParentFont" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:DBText2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TDBText</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Left">
+        <source>149</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Top">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Width">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Caption" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label3.Caption">
+        <source>'Placa:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Left">
+        <source>150</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Top">
+        <source>38</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Width">
+        <source>35</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Caption" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:Label4.Caption">
+        <source>'Chassi:'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327778</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Left">
+        <source>103</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Top">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Width">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Glyph.Data" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.Glyph.Data">
+        <source>36030000424D360300000000000036000000280000001000000010000000010018000000000000030000130B0000130B00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7FCFACDEBDEE3F4EDFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6FBF99DD6BC31AD775AC295D6F1E6FEFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4FAF797D1B62AA56D19A4671CAC6E54C595D4F1E5FEFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4FAF793CCB2279E67199E621AA5681AAC6E1DB37555CA9AD4F2E6FEFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7FBF999CDB4279A6418995E199F631AA6691AAD6F1BB4751EBB7C58D1A1D8F5EAFEFFFFFFFFFFFFFFFFFFFFFFFAFDFC9DCEB629986318965B199C6127A76E3EB6821FB1731CB6761CBC7C1FC48359D8A7D6F6EAFEFFFFFFFFFFFFFFFFE9F4EE42A2741893591A995F3AAC79A0D8BFD1EEE162CA9F1FB97B1DBF7E1DC68420CD8A57DDAAD6F8EBFEFFFFFFFFFFFBFDFCA0D2BB2EA16C58B78CC8E8DAFAFDFCFEFFFFDDF4EB66D1A621C3821EC8861ECF8B21D69257E4AFD9F9EDFFFFFFFFFFFFF6FBF8C1E3D3E1F2EBFEFFFEFFFFFFFFFFFFFFFFFFDFF6EC63D6A921CC8A1FD18D1FD89322DF995EECB8EDFDF7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFDDF7ED62DDAE22D59120DA9520E19A49EBB0E6FDF5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFDEF8EF64E4B423DE9942E7ABC5F9E6FDFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFE3FBF292F0CEC9F8E7FDFFFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFFFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TSpeedButton</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.OnClick" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:SpeedButton1.OnClick">
+        <source>SpeedButton1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TSpeedButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Left" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Top" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Width" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Width">
+        <source>95</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Charset" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Color" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Height" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Height">
+        <source>-13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Name" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Style" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.ParentFont" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.TabOrder" resname="O:FormCadastroVeiculos.O:GroupBox2.O:Panel1.O:EditVeiculo.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Left" resname="O:FormCadastroVeiculos.O:btsalva.Left">
+        <source>220</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Top" resname="O:FormCadastroVeiculos.O:btsalva.Top">
+        <source>184</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Width" resname="O:FormCadastroVeiculos.O:btsalva.Width">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617327894</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Height" resname="O:FormCadastroVeiculos.O:btsalva.Height">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Cursor" resname="O:FormCadastroVeiculos.O:btsalva.Cursor">
+        <source>crHandPoint</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Hint" resname="O:FormCadastroVeiculos.O:btsalva.Hint">
+        <source>'Salva o movimento, se todos os campos estiverem preenchidos'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.DoubleBuffered" resname="O:FormCadastroVeiculos.O:btsalva.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.Glyph.Data" resname="O:FormCadastroVeiculos.O:btsalva.Glyph.Data">
+        <source>BE2D0000424DBE2D00000000000036000000280000003E0000003E0000000100180000000000882D0000130B0000130B00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5F5F5C3C3C3949494929292929292989898BCBCBCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCDCDCDCDCDCDCCCCCCCDCDCDC0C0C09D9D9D929292929292929292A5A5A5E2E2E2FCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCBABABA252525020202020202020202424242C9C9C9CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCD0D0D0D0D0D0CFCFCFCECECEC3C3C3C0C0C0CACACACECECEB5B5B51A1A1A0101010202020202020808086B6B6BECECECFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFAFA7C7C7C000000010101000000000000616161FFFFFFFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F6F6F6E2E2E2D1D1D1D1D1D1E9E9E9E0E0E0C9C9C9E7E7E7FEFEFEE3E3E3202020000000010101010101010101212121D5D5D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F97878780101010000000000000000005D5D5DF7F7F7F1F1F1F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2EBEBEBB9B9B9BEBEBECFCFCFE7E7E7EBEBEBD3D3D3DFDFDFF4F4F4D9D9D91F1F1F000000000000000000000000272727D1D1D1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F97A7A7A0606061111111010100505055D5D5DF9F9F9E4E4E4DBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDBDADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADADAD8D8D8DADADADBDBDBDADADAD7D7D7D5D5D5D9D9D9EFEFEFD9D9D91F1F1F0D0D0D191919171717040404282828D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F9747474313131C0C0C0C0C0C03838385C5C5CFAFAFAE2E2E2D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D6D6D6D6D6D6D7D7D7D8D8D8D7D7D7D7D7D7D7D7D7D7D7D7D8D8D8D9D9D9EEEEEED9D9D9202020595959CDCDCDB7B7B71C1C1C252525D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F9757575393939DDDDDDDFDFDF3F3F3F5D5D5DF9F9F9F4F4F4F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F4F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F2F2F2F2F2F2DADADA202020626262E8E8E8D0D0D0202020242424D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F97979791313134848484747471616165E5E5EFAFAFAF1F1F1F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0EFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEDEDEDEDEDEDEDEDEDF2F2F2DADADA1F1F1F2222225555554B4B4B0C0C0C272727D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87979790404040303030202020101015F5F5FFCFCFCDEDEDECCCCCCCECECECECECECECECECECECECECECECECECECECECECECECECECECECECECECECECECDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCDCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCFCFCFEEEEEEDCDCDC1F1F1F000000010101010101010101282828D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87A7A7A0505050505050404040202025F5F5FFBFBFBF3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F3F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F2F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F4F4F4DCDCDC202020000000030303030303020202282828D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87A7A7A0505050505050404040303035F5F5FFCFCFCF6F6F6F8F8F8F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F4F4F4F5F5F5DCDCDC202020000000030303030303030303292929D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87A7A7A060606060606050505040404606060FEFEFEE4E4E4D7D7D7D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D8D7D7D7D7D7D7D7D7D7D7D7D7D8D8D8D8D8D8D8D8D8D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D6D6D6D6D6D6D6D6D6D6D6D6D7D7D7D7D7D7D7D7D7D6D6D6D8D8D8F1F1F1DDDDDD212121000000030303030303030303292929D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87A7A7A060606060606050505040404606060FEFEFEEAEAEAE1E1E1E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E2E2E2F3F3F3DEDEDE212121000000040404040404040404292929D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87A7A7A070707070707060606050505606060FDFDFDF9F9F9FDFDFDFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFAFAFAF8F8F8DFDFDF222222010101050505050505040404292929D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B080808080808070707050505616161FEFEFEECECECE4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E3E3E3E3E3E3E3E3E3E3E3E3E5E5E5F6F6F6E0E0E02323230101010505050505050505052A2A2AD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B090909080808070707060606636363FFFFFFE5E5E5D6D6D6D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D7D9D9D9F4F4F4E0E0E02525250303030606060606060606062B2B2BD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B090909090909080808080808646464FFFFFFF9F9F9FBFBFBFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAF9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8E0E0E02525250505050707070606060606062B2B2BD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B0A0A0A0A0A0A090909090909646464FFFFFFF8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F9F9F9E0E0E02525250606060909090707070707072B2B2BD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B0B0B0B0B0B0B0A0A0A0B0B0B656565FFFFFFE2E2E2CFCFCFD0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0D0CFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFD0D0D0D0D0D0CFCFCFCFCFCFD3D3D3F5F5F5E1E1E12626260606060A0A0A0808080808082D2D2DD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B0B0B0B0B0B0B0C0C0C0B0B0B656565FFFFFFF8F8F8F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F7F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F6F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5F5FAFAFAE1E1E12626260707070B0B0B0909090808082D2D2DD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87B7B7B0C0C0C0C0C0C0D0D0D0C0C0C666666FFFFFFFDFDFDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFDFCFCFCFBFBFBE2E2E22727270808080C0C0C0B0B0B0909092E2E2ED2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87C7C7C0D0D0D0D0D0D0F0F0F0D0D0D676767FFFFFFECECECE0E0E0E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0E0DFDFDFE2E2E2F9F9F9E3E3E32727270909090D0D0D0C0C0C0A0A0A2F2F2FD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87C7C7C0D0D0D0F0F0F1010100E0E0E686868FFFFFFEEEEEEE4E4E4E5E5E5E5E5E5E5E5E5E5E5E5E5E5E5E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E4E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E3E5E5E5FAFAFAE3E3E32828280909090D0D0D0D0D0D0B0B0B2F2F2FD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F87C7C7C0E0E0E1010101010100F0F0F686868FFFFFFFEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFDFDFDE3E3E32828280A0A0A0E0E0E0E0E0E0C0C0C303030D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77D7D7D0F0F0F1212121111110F0F0F686868FFFFFFFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFCFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFBFEFEFEE3E3E32929290B0B0B0F0F0F0E0E0E0D0D0D303030D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77D7D7D1010101212121111111010106A6A6AFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFEFFFFFFE7E7E72A2A2A0B0B0B0F0F0F0F0F0F0E0E0E303030D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77D7D7D1111111313131212121111116A6A6AFFFFFFFBFBFBFBFBFBFBFBFBFBFBFBFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFBFBFBFAFAFAFBFBFBFBFBFBFAFAFAFAFAFAFAFAFAFAFAFAFAFAFAFBFBFBFBFBFBFEFEFEE3E3E32A2A2A0C0C0C1010101010100F0F0F313131D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77D7D7D1212121414141313131717173131315A5A5A5757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575757575252525656565353535151515252525050505252525252525252525252525454545050501818180F0F0F111111111111101010313131D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77E7E7E1313131414141313131A1A1A2020202222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222727275252522727273939394545453F3F3F4C4C4C4141414242424343434242423C3C3C202020131313111111121212111111101010323232D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77E7E7E1414141616161515151A1A1A2525252D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2D2F2F2F6464644D4D4D6B6B6B9494948282828989898F8F8F8E8E8E818181888888717171292929151515111111131212121212111111323232D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77F7F7F1414141616161616161818182020202D2D2D2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2E2D2D2D2E2E2E4747474646463E3E3E393939343434414141484848373737373737353535282828131313121212131313131313121212333333D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77F7F7F1515151717171717171616161616161E1E1E272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727272727262626262626262626262626272727272727272727272727272727262626262626252525282828262626222222232323242424222222222222242424242424222222181818121212141414141414141414131313353535D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77F7F7F161616181818181818181818171717151515151515141414141414141414151515151515141414141414141414141414141414141414141414131313141414141414141414141414131313121212111111111111131313141414141414131313141414121212121212131313121212121212121212121212121212121212121212121212131313121212121212151515151515151515151515131313363636D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77F7F7F171717181818191919191919191919181818181818181818181818181818181818181818171717181818181818181818171717171717171717171717171717181818171717171717161616161616161616161616171717171717171717171717161616151515161616161616161616161616161616161616161616161616161616161616161616161616161616161616161616161616161616141414373737D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F77F7F7F181818181818191919191919191919191919191919191919191919191919191919191919191919191919191919181818181818181818181818181818181818181818181818181818181818181818181818181818181818181818181818171717171717161616171717171717171717171717171717171717171717171717171717171717171717161616161616161616161616161616161616141414373737D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78080801919191919191A1A1A1A1A1A1A1A1A191919191919191919191919191919191919191919191919181818181818181818181818181818181818181818181818171717171717171717181818181818181818181818181818171717171717161616171717171717171717171717181818181818181818181818181818181818181818171717171717171717171717171717171717171717161616151515373737D2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78080801A1A1A1A1A1A1A1A1A1B1B1B1919191D1D1D202020202020202020202020202020202020202020191919131313131313131313141414141414131313131313131313131313131313121212121212121212121212121212121212111111111111121212121212111111111111171717191919191919191919191919191919191919191919181818181818181818181818181818181818171717161616383838D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181811B1B1B1B1B1B1A1A1A1B1B1B2929293333332C2C2C2C2C2C2C2C2C2C2C2C2C2C2C2C2C2C2525254141417373737474747474747272727272727171717272727373737272727272727373737171717373737A7A7A7A7A7A7B7B7B7C7C7C7E7E7E7B7B7B7474747575755858591C1C1C1919191A1A1A1919191919191919191919191A1A1A191919191919191919191919191919191919171717171717383838D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181811C1C1C1C1C1C1B1B1B2020203232321E1E1E1B1B1B1C1C1C1C1C1C1C1C1C1C1C1C1818183C3C3CCACACAEDEDEDE9E9E9E9E9E9E8E8E8E7E7E7E9E9E9ECECECEEEEEEECECECEDEDEDEFEFEFEDEDEDE5E5E5C7C7C7C7C7C7C9C9C9CACACACACACAD2D2D2EFEFEFEFEFEFE6E6E77575751616161A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A1A191919181818181818393939D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181811C1C1C1C1C1C1B1B1B2323232424241C1C1C1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D151515717171F4F4F4E3E3E3E2E2E2DEDEDEDEDEDEE2E2E2E3E3E3E5E5E5EDEDEDE5E5E5E4E4E4DEDEDEEEEEEE7676761E1E1E232222222222222222212121242424AFAFAFE7E7E7EBEBEBB8B8B81A1A1A1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1919191919191919193A3A3AD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181811D1D1D1D1D1D1C1C1C2222222424241E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1717176F6F6FE8E8E8DCDCDCDFDFDFDCDCDCDCDCDCE1E1E1B9B9B9B8B8B8949494979797848484797979DEDEDE5B5B5B1212121919191818181818181919191010109B9B9BF0F0F0EEEEEEB8B8B81B1B1B1B1B1B1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1B1B1B1B1B1B1B1B1B1B1B1B1B1B1B1A1A1A1A1A1A1A1A1A3A3A3AD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181811E1E1E1E1E1E1D1D1D2323232323231E1E1E1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1818186E6E6EE9E9E9DEDEDEDEDEDEDFDFDFDFDFDFDADADAA0A0A0C9C9C9737373838383AFAFAFC8C8C8EEEEEE6363631616161D1D1D1D1D1D1D1D1D1D1D1D1716169B9B9BE6E7E7E4E5E5B2B2B21C1C1C1C1C1C1D1D1D1D1D1D1D1D1D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C1B1B1B1B1B1B1B1B1B1B1B1B3B3B3BD2D2D2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181811F1F1F1F1F1F1E1E1E2424242424241E1E1E2020201F1F1F1F1F1F1F1F1F1F1F1F181818707070EEEEEEE3E3E3E1E1E1E3E3E3E1E1E1DEDEDECECECEE4E4E4D2D2D2C9C9C9DFDFDFE8E8E8EEEEEE5F5F5F1818181E1E1E1E1E1E1E1E1E1E1E1E1717179C9C9CE7E7E7E7E7E7B5B5B51D1D1D1D1D1D1E1E1E1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C3D3D3DD3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181812020202020201F1F1F2525252525251E1E1E202020202020202020202020202020191919717171ECECECDEDEDEDCDCDCE1E1E1E3E3E3E5E5E5EBEBEBE6E6E6EAEAEAEAEAEAEAEAEAE9E9E9EFEFEF6262621919191F1F1F1F1F1F1F1F1F1F1F1F1919199C9C9CE6E6E6E5E4E4B3B3B31D1D1D1D1D1D1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1D1D1D1C1C1C1C1C1C1C1C1C1C1C1C1C1C1C3D3D3DD3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78181812121212121212020202626262626261F1F1F2020202121212121212121212121211A1A1A707070EBEBEBDEDEDEDCDCDCBEBEBEB2B2B2AEAEAEB3B3B3BFBFBFB9B9B9B9B9B9B2B2B2C6C6C6EFEFEF6162621A1A1A202020202020202020202020191919A0A0A0EBEBEBEAEAEAB5B5B51E1E1E1E1E1E1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1E1E1E1E1E1E1E1E1E1D1D1D1D1D1D1D1D1D1D1D1D3E3E3ED3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832222222121212020202626262727272020202121212121212222222222222222221B1B1B6F6F6FE9E9E9E1E1E1E1E1E1BBBBBBB5B5B5ABABABABABABAAAAAAADADADB1B1B1AAAAAAC1C1C1EDEDED6060601B1B1B2121212121212020202020201A1A1AA0A0A0EFEEEEEEEEEEB9B9B91F1F1F1F1F1F2020202020202020202020202020201F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1E1E1E1E1E1E1E1E1E3E3E3ED3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78282822222222222222121212727272828282121212222222222222222222222222222221B1B1B6F6F6FE7E7E7DCDCDCD5D5D5AAAAAAB6B6B6ADADADB5B5B5D7D7D7AAAAAAA6A6A69A9A9ABDBDBDEDEDED6161601B1B1B2121212121212121212121211B1B1B9E9E9EE7E7E7E7E7E7B4B4B42020202020202020202020201F1F1F2020201F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F1F3F3F3FD3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78282822323232323232222222828282929292222222323232323232222222222222323231C1C1C717171E9EAE9DFDFDFDADADA999999787878777777919191C4C4C46A6A6A7E7E7E878787AEAEAEEAEAEA6161611C1C1C2222222222222222222222221C1C1C9E9E9EE4E4E4E3E3E3B2B2B2202020222222262626242424262626252525252525212121202020202020202020202020202020202020202020404040D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832424242323232323232929292A2A2A2323232424242323232323232323232323231C1C1C707070E8E8E8E3E3E3E0E0E0CACACACECECEC3C3C3C4C4C4DBDBDBCACACAD3D3D3E6E6E6E0E0E0EDEDED6363631D1D1D2323232323232323232323231D1D1D9E9E9EE8E8E8E7E7E7B3B3B32121212424242B2B2C2727272B2B2B272727292929242424212121212121212121212121212121212121212121404040D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832424243232322728272929292A2A2A2323232424242424242424242424242424241D1D1D6F6F6FEBEBEBDEDEDEDEDEDEE4E4E4E5E5E5E5E5E5E1E1E1DEDEDEE5E5E5E3E3E3E1E1E1E2E2E2EDEDED6464641E1E1E2424242323232323232323231D1D1D9D9E9EE5E5E5E5E5E5B4B4B4222222252525272727272727282828222222222222222222222222222222222222212121212121212121212121404040D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832929293131312626262A2A2A2B2B2B2424242525252525252525252525252525251E1E1E767676B1B1B14C4C4C4D4D4D4B4B4B4B4B4B4B4B4B4949494B4B4B4949494B4B4B4646467D7D7DEFEFEF6565651E1E1E2424242424242424242424241E1E1E9A9A9ADDDEDEDDDDDDB0B0B02222222424242928292D2D2D2B2B2B232323232323272727252525222222222222222222222222222222222222414141D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832929292D2D2D2525252B2B2B2C2C2C2525252525252525252525252525252525251E1E1E7777779696963030302828283737373333333D3D3D4141413737374141413838382D2D2D636363F5F5F66666661F1F1F2525252525252525252525251E1E1E9D9D9DE4E5E5E4E4E4B4B4B42222222626262A2A2A2727272929292525252929292C2C2C252525232323232323232323232323232323232323414141D3D3D3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832626262424242222222B2B2B2C2C2C2525252626262626262626262626262626261F1F1F747474AEAEAE6666665959598A8A8A8B8B8B8A8A8AA4A4A48888889393938C8C8C727272686868F0F0F06565652020202626262626262525252525252020209D9D9DE7E7E7E7E7E7B6B6B62424242626262828282626262929292626262D2D2D282828232323242424242424242424242424242424232323404040D5D5D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832727272525252525252C2C2C2D2D2D2626262727272727272727272727272727272020207878787979793232324A4A4A4747473F3F3F3333333E3E3E4949493E3E3E3939393131315E5E5EEBEBEB5C5C5C1919191F1F1F1F1F1F1F1F1F202020222222A09FA0EAEAEAE9E9E9B8B8B82424242424242424242424242424242424242525252424242525252525252525252525252525252424242A2A2A5B5B5BE6E6E6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7F78383832828282828282727272D2D2D2E2E2E2828282929292929292828282727272727272020207979798E8E8E4242425252524343433F3F3F4141413F3F3F4040404040404040403B3B3B787878F3F3F38C8C8C3939393C3C3C3B3B3B3C3C3C5E5E5E9D9D9DC9CAC9E9E9E9E9E9E9B7B7B72525252525252626262626262626262626262626262626262626262626262525252525252424242929294A4A4AC1C1C1FEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8F88686862828282727272626262C2C2C2F2F2F2D2D2D3A3A3A363636292929292929292929222222757575E5E5E5D4D4D4CFCFCFD0D0D0D0D0D0CFCFCFD1D1D1D2D2D2D4D4D4D6D6D6D6D6D6D9D9D9E3E3E3E2E2E2D5D5D5D4D4D4D4D4D4D8D8D8DDDDDDE6E6E6EAEAEAE6E6E6EAEBEABABABA343434292929262626262626262626262626262626262626252626252525252525242424282828494949BBBBBBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEAAAAAA303030333333323232393939464646B6B6B6DEDEDED4D4D47575753636363535352F2F2F7B7B7BF1F1F1E9E9E9E9E9E9E7E7E7E6E6E6E5E5E5E5E5E5E6E6E6E5E5E5E5E5E5E7E7E7E4E4E4E0E0E0E4E4E4E7E7E7E7E7E7E9E9E9EAEAEAEDEDEDEEEEEEE8E8E8E6E6E6EEEEEEE2E2E2C2C2C25555554141414141414141414141414141414141413637373131313131313131314A4A4ABEBEBEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F3F3C7C7C7C2C2C2C3C3C3C2C2C2D9D9D9FFFFFFFFFFFFFFFFFFF5F5F5D8D8D8D6D6D6D4D4D4DFDFDFF0F0F0EFEFEFEFEFEFEFEFEFEFEFEFEEEEEEEEEEEEEEEEEEEDEDEDEDEDEDEDEDEDEDEDEDEEEEEEEEEEEEEEEEEEEEEEEEF0F0F0F2F2F2F6F6F6F5F5F5F6F6F6F8F8F8F9F9F9FCFCFCFFFFFFEBEBEBDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDEDED0D0D0C2C2C2C3C3C3C2C2C2D7D7D7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">0</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.ParentDoubleBuffered" resname="O:FormCadastroVeiculos.O:btsalva.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.ParentShowHint" resname="O:FormCadastroVeiculos.O:btsalva.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.ShowHint" resname="O:FormCadastroVeiculos.O:btsalva.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.TabOrder" resname="O:FormCadastroVeiculos.O:btsalva.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:btsalva.OnClick" resname="O:FormCadastroVeiculos.O:btsalva.OnClick">
+        <source>btsalvaClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Left" resname="O:FormCadastroVeiculos.O:BitBtn2.Left">
+        <source>295</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Top" resname="O:FormCadastroVeiculos.O:BitBtn2.Top">
+        <source>183</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Width" resname="O:FormCadastroVeiculos.O:BitBtn2.Width">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Height" resname="O:FormCadastroVeiculos.O:BitBtn2.Height">
+        <source>66</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Cursor" resname="O:FormCadastroVeiculos.O:BitBtn2.Cursor">
+        <source>crHandPoint</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Hint" resname="O:FormCadastroVeiculos.O:BitBtn2.Hint">
+        <source>'Sair'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328009</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.DoubleBuffered" resname="O:FormCadastroVeiculos.O:BitBtn2.DoubleBuffered">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.Glyph.Data" resname="O:FormCadastroVeiculos.O:BitBtn2.Glyph.Data">
+        <source>BE2D0000424DBE2D00000000000036000000280000003E0000003E0000000100180000000000882D0000C40E0000C40E00000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F9EBEBEBDEDEE2D8D8DFD8D8DFDADAE0E4E4E5F1F1F1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCD7D7DDAAAAC99293BF8486B98384BB8889BF9091C69596C79697C79495C98C8EC38386BB8384B88A8BBB9D9DC3C0C0D2ECECECFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3D3DC9696BE7A7CB57D7FC1979AD7BABEF2D4D7FFE6E9FFF3F6FFFBFDFFFFFFFFFFFFFFFDFFFFF6F8FFEBEEFFDBDFFFC5CAFAA8ACE68689C8787AB88686B9AFAFCBEFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFCB9B9CF7B7CB26F71BB9094E3AEB4FEBAC0FFC0C7FFC6CDFFCED3FFD6DBFFDEE1FEE5E7FEE8EBFEE9EBFEE6E9FEDFE3FED8DCFFD0D5FFC6CDFFC0C6FFBAC1FFB3BAFFA0A5F4777BC96E70B29495BDE1E1E4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC1C1D27272AE6669BD888FEF9099FE8D97FC919AF99CA4F9AAB1FAB6BDFCC1C8FDCBD1FED2D8FFD9DDFFDCE0FFDDE1FFDADEFFD4D9FFCDD2FFC4CAFEB9C0FCADB4FBA0A8FA929CF88B94F98B94FC8D95FA777CD86364AE9191B9EDEDEDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE6E6E77F7FB05759B1747AE86E78F5646FF16B75F07B85F38992F6949DF89FA7FBABB3FCB8BFFCC5CBF8CFD2F5D6D8F2D9DAF0D9DAF0D7D8F0D2D5F2CACEF5BEC3F9AFB6FCA1A9FC969FFA8C95F77F88F47079F1636DEF646EF3727AF2656ACE6163A8B2B2CAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB6B6CC595AA45E63D15861EB444FE64A55E85A64EC6771EF717BF37A85F69099F5AEB2EFC7C7E7D8D5E1DFDCDCE4DFD9E5E0D7E5E0D6E5E0D6E5E0D6E5E0D7E3DED9DEDADDD3D1E2BEC0E9A2A8F0838DF4717BF46872F15E68ED4F59E9414CE54952E85F67E44E50AE7C7CAEEEEEEEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFE9191B74748A75056DD303ADC2B35DB3A44DF4852E54F5AEA5963ED7B83EDAEB1E7D5D2DFE7E2DAEBE4D8EAE3D8E8E2D9E8E2DAE7E2DAE7E2DAE7E2DAE7E2DAE7E2DAE8E2D9E9E3D9EAE4D8EBE4D8E4DFDBCCCBE19DA2E86A73EC4F59EB4853E63E49E12F39DB2630D83E46DE4F54C85C5EA2D4D4DEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6F6F67879AC4044AE363CD4151DCD1C26D02A34D8343EDD3843E25660E5A0A4E3DCD9DEEEE9DCEDE8DCEAE5DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDE9E4DDEAE5DCEEE9DCEDE8DCD0CEDF898DE3444EE2303BDE2C36DA212AD4131CCC1F26CE444ACC4A4B9CBFBFD2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5F5F57070A63C41B31F27C6060EBF1118C71B24CE202AD42732DA6C73DECDCBDFF1ECDEEEE9DFEAE5DFEAE5DFEAE5DFEAE5DFEAE5DFEBE6E0ECE7E1EEE9E2EFEAE2EFEAE3EFEAE2EEE9E2ECE7E0EAE6DFEAE5DFEAE5DFEAE5DFEAE5DFEBE6DFF0EBDEEEE9DEB6B6DE5057DB1D26D51B24D0141CCA0910C00A12BF363CC642439ABABACFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFAFA7374A7393DAD171DBB0005B4060FBC0E16C31018CB1F28D08C8DDBE9E5E0F3EEE1EDE7E1ECE7E1ECE7E1ECE7E1EDE8E2F1ECE4F4EEE3F1EBDEE9E3D7DEDAD0D9D4CDD8D3CCDAD5CDE1DCD2EBE5D9F2EDDFF4EEE3F0EBE4EDE7E1ECE7E1ECE7E1ECE7E1EEE8E1F6F0E1DBD7DF666BD61019CB0D14C50911BE0008B70209B43136BE414297C3C3D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8383B03537A2171CB30002AB0008B2030BB8030CBE1920C6A1A1DAF6F1E4F1ECE3EDE9E3EDE9E3EDE9E3EEEAE4F4EFE7F3EEE0DAD7D0B8B7C69A9CC4898DC98186D17E84D37D84D47E83D38287CF8B8EC7A0A1C3C0BFC7E3DED4F5F0E3F2EEE7EDE9E4EDE9E3EDE9E3EDE9E3F3EFE3EDE9E37779D2050EBF020ABA0009B40004AD0208AA3034B5434493D6D6E1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA2A2C22E30911B20AC0002A30006A90007AF0003B30E15BBA7A6D8F9F4E6EFEBE5EEEAE5EEEAE5EEEAE5F3EEE8F6F2E4CFCCCE8F91C2666DCE5B64DF5E69EC646FF16973F46B76F56B76F56A74F46671F3606BF05A65E95861D96B71C99E9EC3DEDAD3F8F3E7F0ECE7EEEAE5EEEAE5EEEAE5F2EEE6F3EFE5787BCE0004B40005B00006AB0003A50409A33135AC515195EEEEF1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0D0DD37388B2327A700029A0005A10006A60003AB0307B09B9BD4FCF7EAF1EDE8F0ECE8F0ECE8F0ECE8F9F5ECE7E3DA9192C14B53CB3E4AE24955EB525DEC5761EC5B65EC5D67ED5E68ED5F69ED5D67ED5B65EC5862EB545EEB4D58EC434FE93B46DC555BC4A9A9C4F3EEE1F6F2EBF0ECE8F0ECE8F0ECE8F3EFE8F4F0E8696BC70000AA0005A70005A200039B0A0E9D30329E7676A7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6F6F85555962B2D9F02049400039700059D0004A30000A5787BC9FBF6ECF3EEEAF1EDEAF1EDE9F2EEEAFBF7EDCECBD1585CBE2630D4303BE13B45E1414BE34650E54954E64C57E74F59E8505AE9505AE94F59E84D57E74A55E64751E5424CE33D47E13641E02934DE2731CB7275BDE5E1DBF9F5EDF1EDEAF1EDEAF1EDE9F5F1EAEEEAE84649BA0000A100059E00059900009115189B2A2B88B1B1CCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9A9ABC27288A0C0E9100018D00049400059900009C4346B5F0EEEAF6F3EDF2F0ECF2F0ECF3F0EDFCF9EFBBBACD3238BB141ED0232CD62933D82F39DB343EDD3842DF3C46E03F49E1404BE2424DE3424DE3414CE23F4AE13C47E03943DF353FDD303ADB2B35D9252FD51C27D40F19CA4D51B7DAD8D9FBF7F0F2EFECF2F0ECF2EFECFAF7EED4D2E21A1EA600009900049500038F00018923259743438CEBEBF0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE5E5EC3939861C1E9000008400028A0003900001940F129DC8C7DEFCF9F1F4F1EEF4F1EEF4F1EEFDFAF1BEBCCF2026B40710C7151DCB1A23CE1F28D1242ED42932D72C35D92F39DB323CDC333DDC343EDD353FDD343EDD323CDC303ADB2D37DA2A33D7262FD5212AD31B25CF171FCC1118C9020AC13E43B2DFDDDCFBF7F1F4F1EEF4F1EEF4F1EEFFFCF29696CB00009400029000038C0000850709852425888C8CB5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8888B221228405068000018000028600038C00008D7273BDFEFCF3F5F3F0F5F3F0F5F3F0FCFAF3D4D2D92328AD0004BB0912BF0D15C31119C7151DCB1A23CE1E27D1212AD3242DD4262FD52730D62831D72831D72831D7262FD6242DD5222BD31F28D11B23CF1720CC121AC80E16C50A13C0050EBC0000B44B4FB0EFEDE8F8F6F2F5F3F0F5F3F0F8F5F1F1EFEE3C3EA700008A00028800028200007C171887363682E3E3EBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE7E7ED35378115168200007700017D000283000086171994DAD9E5FBFAF4F6F5F2F6F5F2F8F7F4F3F1EB4A4DAE0000AE0008B4030BB8060FBC0A12C00E15C31119C7141BC9161FCC1821CD1A23CF1B25CF1C25CF1C26CF1C25CF1B24CF1922CE171FCC151CCA1219C70F16C40B13C10710BD040CB90109B50006B20000A87F81BBFEFCF3F6F5F2F6F5F2F6F4F2FFFEF6ACABD001028700018300027F00007A0506791D1E7E8E8EB5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9C9CBF191A7705067400007500017A00027F0000806A6AB3FFFDF7F8F6F4F8F6F4F7F5F4FFFFF79798C40000A20005AC0006AF0007B20008B5030BB8060FBC0911BF0C14C10E16C41017C51119C7121AC7131AC8131AC8121AC81219C71017C60F16C40C14C20A12C00710BD040CB90109B60008B30007B00006AC0002A90E119FCAC9D8FEFCF8F8F5F4F8F6F4FAF8F5F1F0F034359A00007D00017B00017600007113147B3E3E84F0F0F4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFB4E4E8E13137700006D00017200017600007A070881C3C2D9FFFEF8F9F7F5F9F7F5FCFAF7E7E5E724289F0000A20006A60006A90006AC0006B00007B20008B5020AB8040CBA060EBC0810BE0911BF0A12C00A12C00B12C00A12C00911BE0810BE070FBC050DBA030BB80109B60008B30007B00006AD0006AA0006A70006A400009C5557ACFCFAF4F9F8F6F9F7F5F8F7F5FFFFFA8C8CBF00007800017700017300006E06076F181871B1B1CCFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFDE1D1D70090A6C00006A00016E000173000074333392F3F2F2FBFBF8F9F9F7F9F9F7FFFFFB9293C100009300059D0005A10005A40006A70006AA0006AC0006AE0007B10007B20008B40109B60109B7020AB7020AB8020AB8020AB7020AB70109B60008B40008B30007B10006AF0006AD0006AA0006A70006A50005A100059E00029A070A92C9C8D9FEFEFAF9F9F7F9F9F7FEFEFAD1D0E10D0E7D00007300016F00016C01026813137169699EFFFFFFFFFFFFFFFFFFFFFFFFFFFF9494B910116C00016400006600006A00006E00006E7373AEFFFFFDFAF9F9FBF9F9FCFAFAF7F5F33C3D9F00009100049700059B00059E0005A10005A40006A60006A90006AB0006AD0006AF0006B10007B20007B20007B40007B40007B30007B30006B10006B00006AE0006AD0006AA0006A80006A50005A200059F00059B00059800049500008D7374B3FFFFFCFBF9F9FBF9F9FCFAFAF8F7F63A3B8F00006C00006B0000670000630A0A6A33337BEEEEF3FFFFFFFFFFFFFFFFFFFFFF5B5B950C0C690808670F106D0E0F700A0B7103046EADADCCFFFFFEFCFBFAFCFBFAFFFFFDCECDDE090B8900018E00039100049400049800059B00059E0005A20005A60005A80006AA0006AC0006AE0006B00006B00006B00006B00006B00006B00006AF0006AE0006AD0005AA0005A80005A50005A100059E00049A00049600039200038E0000892E2F95F1F1F0FDFDFBFCFBFAFCFBFAFFFFFF6F6FA803046B0B0C6F0F106E0D0E6A090967101066C1C1D6FFFFFFFFFFFFFFFFF0F0F43131791B1B7125257727277A28297C27287F2B2C82D6D6E3FFFFFFFDFDFCFDFDFCFFFFFF9D9DC500008000028900038C00039000039400049900049D0005A00005A40005A70005A90005AB0005AD0005AE0005AF0005B00005B00005B00005AF0005AE0005AD0005AB0005A90005A60005A40004A000049D00039900039400039000028A0000850A0D83D0D1E0FFFFFFFDFDFCFDFDFCFFFFFFA8A8C71F207B28297D27277A27277922227516166F9292B8FFFFFFFFFFFFFFFFD0D0DE1E1E6F29297A26267727277928287B26277C47488FEAEAEFFFFFFFFDFDFDFDFDFDFFFFFF6B6CAB00007900018400028900028F00039400039800039C00039F0004A30004A60005A80005AA0005AC0005AD0005AE0005AE0005AF0005AE0005AE0005AE0005AC0005AA0004A80004A60004A30003A000039C00039800029400028F00028A000083000079AAABCCFFFFFFFDFDFDFDFDFDFFFFFFCACADC2A2B7D28287B27277925257727277726267B6A6A9EFFFFFFFFFFFFFFFFB0B0CA1B1B702828782727772929792A2A7B28287B515293F2F2F4FFFFFFFEFEFEFEFEFEFFFFFF6969AA0C0D8401038500008800008E00019300029800029C0003A00003A30003A60003A80004AA0004AC0004AE0004AE0004AF0004AF0004AF0004AF0004AE0004AC0003AB0003A90003A60003A30002A100029C00029900019400008E000089050687131487A0A1C7FFFFFFFEFEFEFEFEFEFFFFFFD5D6E231327E2A2A7B29297927277826267729297D4B4B8BFCFCFCFFFFFFFFFF9494B92020752929792929792B2B7A2D2D7B2A2A7B585996F7F7F8FFFFFFFFFFFFFFFFFFFEFEFD7272B03A3B9D34359E1F1F980A0B9300009300009700009C0001A00002A40002A70003A90003AB0003AD0003AE0003AF0003B00003B00003B00003AF0003AF0003AD0003AC0002AA0002A70002A40001A100009D00009800029510119725269C3839A03A3B9D9D9EC7FFFFFFFFFFFFFFFFFFFFFFFFDBDBE63939812C2C7B2B2B7A2929792828782A2A7D37377FEFEFF3FFFFFFFFFF8181AD2323782A2A7A2B2B7A2E2E7B2F2F7C2D2D7B5C5B96F8F8F8FFFFFFFEFEFEFFFFFFFDFDFB7071B13F409F494AA94B4CAD4445AE3233AA1B1CA5090AA20000A10000A30000A60000AA0001AD0002AF0002B00002B10002B10002B20002B10002B10002B00002AF0001AE0000AB0000A80000A50002A30E10A52223A93738AE4748B04A4BAE4647A93C3D9E9A9BC6FFFFFFFEFEFEFEFEFEFFFFFFDCDCE63D3D822E2E7C2E2E7B2C2C7A2A2A792B2B7D2D2D78E1E1E9FFFFFFFFFF7777A724247A2D2D7B2E2E7B30307D32327E30307E5B5B94F4F4F5FFFFFFFEFDFDFEFEFDFFFFFE7B7BB64243A14A4BAA4C4DAF5151B45556BA5555BD4B4CBC3A3BB92324B31012B00406AE0000AE0000AF0000B10000B20000B20000B20000B20000B20000B10000B00000AF080AB11517B32A2BB74041BC4F50BF5455BE5253BA4E4FB54B4CB0494AAA4042A1A8A8CDFFFFFFFEFDFDFEFDFDFFFFFFD8D8E33B3B8232327F31317D2E2E7C2C2C7A2C2C7E272775D9D9E4FFFFFFFFFF7474A526267B2F2F7C31317D33337F363680343480575791EEEEF0FFFFFEFDFDFCFDFDFCFFFFFF8A8BBD4647A44F50AD5152B25354B75556BB5858BF5C5CC45F60C86061CB5B5BCB4F50C94344C73636C42A2CC22122C01D1EC01A1CBF1E1FC02324C12D2FC33A3AC54848C95253CB5D5ECC5F60CB5D5EC8595AC45656C05454BC5252B74F50B34D4EAD4646A5B7B7D5FFFFFFFDFDFCFDFDFCFFFFFFD1D1DE3A3A8435358233337F31317D2F2F7C2F2F7F262674D8D8E4FFFFFFFFFF7575A629297C32327E34347F3636813939823A3A854B4B8CE0DFE6FFFFFDFCFCFAFCFCFAFFFFFDAAAACF4C4DA75455B05657B65859BA5B5BBF5C5DC35E5FC76061CA6263CD6566D06869D26A6BD56B6CD66C6CD76C6CD76B6CD86B6CD86C6CD86C6CD76B6CD76B6BD6696AD56667D36364D06161CD5F60CB5D5EC85B5CC4595AC05757BC5555B75152B14F50ABD2D2E4FFFFFDFCFCFAFCFCFAFFFFFEBCBBCF39398839398737378334348032327E323281282874D8D8E3FFFFFFFFFF7B7BA92B2B7D3434803737813939833C3C863E3E8A41418CCAC9D8FFFFFCFBFAF9FBFAF9FFFFFBCFCEE25555AD5859B45B5CB95D5EBE6060C26262C76364CB6566CE6767D06869D36A6AD56B6BD66C6CD76C6DD86A6AD96667D86767D86768D96C6DD96C6DD96B6CD86A6BD7696AD56868D36666D16465CF6263CC6061C85E5FC35C5CBF595ABB5454B66665B7EAE9EFFEFDFAFBFAF9FBFAF9FFFFFD9E9DBE3A3A8D3D3D8C3A3A883737843434803535822E2E78DCDCE6FFFFFFFFFF8B8BB32C2C7E3838823939833C3C863F3F8B42428F404091A5A4C2FFFFFBFAF9F8FAF9F8FCFBF9EDEDF16F6EBB5B5BB96060BE6263C26565C76768CA696ACE6B6BD16C6DD46E6FD76F70D87071DA7272DB7071DB7E7EDDAFAFE7BABBEA9797E27172DC7272DC7172DB7071DA6F6FD96D6ED76B6CD56A6AD26768CF6566CC6363C86161C45E5EC05656BA8B8BC8FDFCF8FAF9F8FAF9F8FAF9F8FCFBF87A79AD3E3E934040913D3D8D3A3A8937378438388536367DE8E8EDFFFFFFFFFFA2A2C22B2B7B3C3C843C3C863F3F8B4343904545944445977C7CADFAF9F4FAF9F7F9F8F6F9F8F6FEFDF79E9ED05C5CBD6565C36868C76A6ACC6C6CCF6F6FD37071D57273D77475DA7576DC7677DD7777DE7A7BDDD0D0EBFFFFF8FFFFF8F7F6F59B9BE17475DF7778DE7676DE7575DC7374DA7171D86F6FD66D6DD36B6BD16868CD6666CA6363C65C5CC0C3C2DFFFFEF8F9F8F6F9F8F6FCFBF8E7E6E75C5CA344449B4343964040913D3D8D3A3A883B3B8A464688F7F7F8FFFFFFFFFFC0C0D42A2A764040893F3F8B4343904646944949984B4B9E5C5BA3DFDEE2FCF9F7F8F6F5F8F6F5FCFAF6DBDAE96A6BC56969CA6D6DCD6F6FD07272D47474D77676D97878DC7A7ADE7B7BE07D7DE17B7BE29191DFF4F2F1FAF8F6F8F6F5FFFDF6C7C6E67A7AE07D7DE37C7CE27A7AE07979DF7676DD7474DA7272D87070D56E6ED26B6BD06464CB7D7DCDF2EFF1FAF8F5F8F6F5F8F6F5FEFCF8BEBDD14B4BA24A4AA147479C4444974040923D3D8D3C3C8E5F5F97FFFFFFFFFFFFFFFFE1E1E839398045459042428F4646944A4A994D4D9F5151A55050A6AFAEC8FDFBF6F7F5F3F7F5F3F7F5F3FAF9F4A1A1D8696ACE7373D37575D67777D97A7ADC7C7CDE7E7EE08080E28181E38382E48080E69D9CDFF5F4F0F8F6F3F7F5F3FBF9F4D2D0E78081E38383E78282E58080E47F7EE37C7CE17A7ADF7878DD7676DB7373D87070D56969D0C1C0E2FDFBF5F7F5F3F7F5F3F7F6F3FAF8F28988BA4D4DAB4E4EA84A4AA246469C4343964141923C3C8E8181ADFFFFFFFFFFFFFFFFFAFAFA5151904848944545934949984D4D9E5050A45454AA5555AE7776B3EEEDE9F7F5F2F5F4F1F5F4F1F8F7F2E5E3EC8080D67474D87A7ADB7D7DDE7F7FE18181E38484E48686E68787E78888E88787E9A09FE1F3F2EEF6F5F1F5F4F1F8F7F2D1D1E68787E68989EA8888E98686E88484E78282E58080E47D7DE27B7BE07878DE6F6FDA9695DCF4F3F0F6F5F1F5F4F1F5F4F1FAF9F3D8D6DD605FB35454B35252AD4E4EA74A4AA146469B474798363687A9A9C6FFFFFFFFFFFFFFFFFFFFFF7B7BAA4747954B4B984D4D9D5151A35454A95959AF5D5DB55D5DB5BAB8CCFBF7F1F5F1EFF5F1EFF5F1EFFAF6EFCAC8E57C7BDD7F7FE18282E38585E58787E78A8AE98C8CEA8D8DEB8F8FEC8D8DEDA4A4E3F3EFECF6F2EFF5F1EFF8F4EFD3D1E58D8DE98F8FEE8D8DED8C8CEC8B8BEB8888E98686E88383E68181E47A7AE28585E0E1DEEAF8F5EFF5F1EFF5F1EFF5F2EFF9F6EE9896C15858BC5A5AB95656B35252AD4E4EA64949A04F4FA13C3C87D9D9E2FFFFFFFFFFFFFFFFFFFFFFB3B3CB3F3F8B5252A15050A25555A85858AE5D5DB56161BB6262C17B7ABBE8E5E1F6F4EFF3F1EDF3F1EDF3F1EDF7F5EDBAB9E68282E58787E88B8BE98D8DEB8F8FEC9292EE9393EF9595F09494F1A8A8E5F1EFEAF4F2EDF3F1EDF6F4EDD3D1E59392ED9595F19393F09292F09090EE8E8EED8B8BEC8989EB8383E98686E6D1CFE8F8F6EDF3F1EDF3F1EDF3F1EDF9F6F0D0CED56868BF6161C55E5EBE5A5AB95555B35151AC4D4DA55555A8595998FBFBFBFFFFFFFFFFFFFFFFFFFFFFECECEF4B4B8F5B5BAA5252A65858AD5C5CB36060BA6565C06969C66867C8A4A3C5F5F2EAF2EFEBF1EEEBF1EEEBF3F0EBF3F0EBBAB9E88A8BEB8E8FEC9393EE9595F09898F19999F29B9BF29A9AF4ACABE6EFECE8F2EFEBF1EEEBF4F1EBD3D1E49998EE9B9BF49999F39898F29696F19393F09191EF8B8BEE8E8EEBCDCBE9F6F3EBF2EFEBF1EEEBF1EEEBF3F0EDECE8E28887C36566CE6666CA6161C45D5DBE5959B85454B15555AE4F4FA29191B8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7979AA5B5BA95959AE5B5BB25F5FB86464BF6868C56D6DCB7070D17473C9C5C3CEF7F2EBF1EDE9F1EDE9F1ECE9F3EEE9F3EFE9C3C2E99696EF9696F29B9BF29D9DF39F9FF4A1A1F5A0A0F6B0AFE7EFEBE6F2EDE9F1EDE9F3EFE9D4D1E39F9FF1A1A1F7A0A0F59E9EF49C9CF49999F39393F29C9CEFD3D1E9F5F1E9F1EDE9F1EDE9F1EDE9F2EEE9F4F0E7AAA7C86C6CD26E6ED46969CF6565C96161C35C5CBD5757B66363BA484894D6D6DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC6C6D74B4B966969BA5D5DB66262BD6868C46C6CCA7070CF7575D47676DA8383C9D7D4D3F4F0E9EFEBE6EFEBE6EFEBE6F0ECE6F3EFE6D2CFE8A2A2F19E9EF5A3A3F5A5A5F6A6A6F7A6A6F8B3B3E8EDE9E3EFEBE6EFEBE6F1EDE6D4D2E2A4A5F3A7A7F8A5A5F7A4A4F7A1A1F69B9CF6ABAAF0DFDCE7F4EFE6EFEBE6EFEBE6EFEBE6F0ECE7F4F0E7C1BECC7877D37575DE7272D86D6DD26969CE6464C85F5FC15D5DBC6868BB6D6DA5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFB66669F7171BE6363BC6666C16B6BC87070CE7474D37979D87D7DDD7E7EE1908FC9DBD7D3F3EFE7EDE9E4EDE9E4EDE9E4EEEAE4F2EEE4D9D6E6AAAAF3A8A8F8ABABF8ADADF8ACACFAB7B6E9EBE7E1EDE9E4EDE9E4EFEBE4D5D2E1ABABF5ADADFAABABF9A9A9F8A4A4F8B7B5F0E7E3E5F1EDE4EDE9E4EDE9E4EDE9E4EEEAE5F3EFE5C8C5CB8382D27D7DE67A7AE07676DB7171D66C6CD16868CC6060C56E6EC95454A0BDBDD2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBBBBD05757A17878CA6767C56E6ECC7373D27878D77D7DDB8181E08686E58586E79594CAD8D4CFF3EEE5EDE8E3EDE8E2EDE8E2EDE8E2F1ECE1D2CFE5ADAEF7B0B0FAB2B2FAB3B3FBBBBAE9EBE6DFEDE8E2EDE8E2EFEAE2D6D2DFB0B0F6B3B3FBB1B1FAAEAEFAB4B3F2E6E2E2F0EBE2EDE8E2EDE8E2EDE8E2EEEAE3F2EDE2C7C3C98989D38485EC8383E77E7EE37979DF7474DA7070D56A6AD06868CC7C7CCC6666A0FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCFCFC6D6DA38181CA7171CD7171D07777D57B7BDA8080DF8585E48A8AE78F8FEB8F8FED9695CFCCC7C8EFEADFEEE9E2EBE6E0EBE6E0ECE7E0E8E3DDB8B7ECB5B5FBB8B8FBB8B8FCBEBDE9E9E4DDEBE6E0EBE6E0EDE8E0D6D2DEB6B6F7B8B8FCB6B6FCB2B2FACDCAE2EEE9DFEBE6E0EBE6E0EBE6E0EFEAE3EBE6DABCB8C58F8ED98E8EF18B8BEC8686E98282E67D7DE27878DE7373D96B6BD28484DA5C5CA3C3C3D5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD4D4DE5B5BA09090DB7373D37B7BD97F7FDE8585E38989E78E8EEA9393ED9898F09A9AF49897D9B7B4C3E0DBD2EEE8DEEEE9E1EFE9E1E3DED5B7B5E3BBBBFEBDBDFCBEBEFDC2C1E9E7E2DBE9E4DEE9E4DEEBE5DED6D2DDBBBCF8BEBEFDBCBCFDB5B6F8CAC6D4EFEAE0EDE7E1EEE8E1EDE8DDD9D4CCABA9C49594E49898F69494F19090EE8B8BEC8686E98181E67C7CE27474DC7C7CDD8787CD7D7DADFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9393B97C7CBE8E8EE07A7ADC8383E18888E58D8DE99292EC9797EF9C9CF1A1A1F4A5A5F9A0A0EBA6A4CBBEBAC2CFCAC6D0CBC5B7B4C4B8B8F3C2C2FEC3C3FDC4C4FEC6C5E9E6E0D8E8E2DBE8E2DBE9E3DBD6D2DBC1C2F8C4C4FEC2C2FDBFBFFEB2B0D6CBC7C3D8D3CAD0CBC6B9B6C2A1A0D29FA0F2A3A3FA9D9DF59898F29393F08F8FEE8989EB8484E87E7EE47A7AE1A1A1E56262A0E7E7EBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9F96F6FA59E9EDB8C8CE58383E38B8BE89090EB9696EE9A9AF19F9FF3A5A5F5A9A9F7AFAFFBB0B0FCAAAAEBAAA9DBACABDAB8B8F2C4C4FFC7C7FDC9C9FDCACBFFCAC8E9E4DED6E6E1D9E6E1D9E7E2D9D6D3D9C7C7F9CACAFEC7C7FDC5C5FEBEBFFBADADDEAAAAD3A8A7DBA9A9EFAEAEFEABABFAA6A6F8A1A1F69C9CF49797F29292F08D8DED8787EA7E7EE6A5A5EF7171AFB9B9CEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE2E2E66767A3B0B0E99090E98C8CE99494ED9999F09E9EF2A3A3F4A8A8F6ADADF8B2B2F9B6B6FABBBCFEC0C0FFC3C3FFC7C7FFC9C9FDCCCCFECECEFED0D0FFCDCBE8E2DDD4E5DFD7E5DFD7E6E0D6D7D3D8CCCCF9CFCFFFCDCDFECACAFEC7C7FEC4C4FFBFBFFFBCBCFFB8B8FEB3B3FBAEAEFAAAAAF9A5A5F79F9FF59A9AF39595F19090EF8686EBA8A8F38B8BC59292B9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCCCCD97171ACBBBBF19696EE9494EE9C9CF1A1A1F3A6A6F5ACACF7B1B1F9B6B6FABABAFBBEBEFCC2C2FCC7C7FDCBCBFDCECEFED1D1FED3D3FED5D5FFD0CEE8E1DBD2E4DDD5E4DDD5E5DED4D7D3D7D1D1F9D4D4FFD1D1FECFCFFECCCCFEC8C8FDC3C3FDBFBFFDBBBBFCB7B7FCB2B2FBADADFAA8A8F8A3A3F79D9DF59797F38F8FF0AEAEF7A0A0D58484B2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBDBDD17777AFC5C5F6A1A1F49C9CF2A4A4F4AAAAF6AFAFF8B4B4FAB9B9FBBDBDFBC2C2FCC7C7FDCBCBFDCECEFED2D2FED5D5FED8D8FEDADAFFD3D1E7E0DAD0E2DCD3E2DCD3E3DDD2D8D3D6D6D6FAD8D9FFD6D6FED3D3FED0D0FECCCCFEC8C8FDC3C3FDBEBEFDBABAFCB5B5FBB0B0FAABABF9A5A5F79F9FF69797F3B8B8FCACACDC7F7FAFF8F8F8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBBBBD07B7BB2CCCCF7B2B2F9A2A2F5ACACF7B2B2F9B7B7FABCBCFBC1C1FCC6C6FDCBCBFDCECEFED2D2FED6D6FED9D9FEDCDCFFDEDFFFD6D4E7DED7CEE1DAD1E1DAD1E2DAD0D8D3D4DADAFBDDDDFFDADAFFD7D7FED4D4FED0D0FECCCCFEC7C7FDC2C2FDBDBDFCB8B8FCB3B3FBAEAEFAA6A6F8A2A2F7C8C8FFAAAAD88080B1F5F5F5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC9C9D87878AEC9C9F0C9C9FFADADF9B2B2FAB9B9FBBFBFFCC4C4FDC9C9FDCECEFED2D2FED6D6FEDADAFEDDDDFFE0E0FFE3E3FFD6D5E8D9D2C9E2DAD0E0D9CFE1DACFD1CCCFE0E0FDE1E1FFDEDEFFDADAFFD7D7FED3D3FECFCFFECACAFEC6C6FDC0C0FDBBBBFCB5B5FBACACFAB5B5FDD9D9FF9999C78C8CB8F9F9F9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE1E1E47B7BADAEAED8DFDFFFC3C3FFB9B9FBC1C1FCC8C8FDCDCDFDD1D1FED6D6FED9D9FEDEDEFFE1E1FFE5E5FFE8E8FFE1E0F5C4C0BED7CFC4DBD3C8CCC5BBCDCCD7E8E8FFE5E5FFE2E2FFDEDEFFDBDBFFD7D7FED3D3FECECEFEC9C9FEC3C3FDBBBBFCB9B9FDD3D3FFD8D8FB8888BAA2A2C4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFAFA9797BE8888BAD6D6F6E2E2FFCBCBFFC8C8FDCECEFED4D4FED8D8FEDCDCFFE1E1FFE5E5FFE8E8FFEBEBFFEDEDFFDAD9E7C1BDC1BEBABBC9C8D0E9E9FAEBEBFFE8E8FFE5E5FFE2E2FFDEDEFFD9D9FFD5D5FED0D0FEC9C9FEC5C5FED4D4FFE7E7FFAFAFD78181B3CFCFD9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD4D4DC8484B6A0A0CAE4E4FEEBEBFFDCDCFFD5D5FED8D8FEDEDEFFE4E4FFE7E7FFEAEAFFEDEDFFF0F0FFF4F4FFF3F4FFF1F1FFF5F5FFF2F2FFEEEEFFEBEBFFE8E8FFE4E4FFE0E0FFDADAFFD5D5FED5D5FFE2E2FFEFEFFFC9C9E98989BA9F9FC4FAFAFAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB9B9D08989B8A0A0C9DDDDF8F6F6FFF1F1FFEAEAFFE7E7FFE8E8FFECECFFF0F0FFF2F2FFF5F5FFF6F6FFF7F7FFF5F5FFF3F3FFF1F1FFEDEDFFE9E9FFE6E6FFE6E6FFECECFFF5F5FFEFEFFFC1C1E18F8FBD9696BFE4E4E5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEC4C4D49191BD9292BFB4B4D6E3E3FAFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2F2FFD1D1EDA2A2C98D8DBCA3A3C7E7E7E7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE9E9E9B1B1CE9797C19090BD9D9DC7B1B1D4CACAE5DBDBF3EAEAFBF0F0FEF0F0FEEEEEFDE3E3F7D4D4EEBDBDDCA8A8CF9595C19393BFA1A1C6CFCFDBFCFCFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFAFAE0E0E3C0C0D4A9A9CCA0A0C89E9EC59B9BC39B9BC29D9DC4A1A1C7A4A4C9B3B3D0D0D0DBEDEDEDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">0</prop><prop prop-type="Open">{</prop><prop prop-type="Close">}</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.ParentDoubleBuffered" resname="O:FormCadastroVeiculos.O:BitBtn2.ParentDoubleBuffered">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.TabOrder" resname="O:FormCadastroVeiculos.O:BitBtn2.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:BitBtn2.OnClick" resname="O:FormCadastroVeiculos.O:BitBtn2.OnClick">
+        <source>BitBtn2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TBitBtn</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Left" resname="O:FormCadastroVeiculos.O:DBGrid1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Top" resname="O:FormCadastroVeiculos.O:DBGrid1.Top">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Width" resname="O:FormCadastroVeiculos.O:DBGrid1.Width">
+        <source>376</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Height" resname="O:FormCadastroVeiculos.O:DBGrid1.Height">
+        <source>188</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Align" resname="O:FormCadastroVeiculos.O:DBGrid1.Align">
+        <source>alBottom</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.DataSource" resname="O:FormCadastroVeiculos.O:DBGrid1.DataSource">
+        <source>DtCat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Options" resname="O:FormCadastroVeiculos.O:DBGrid1.Options">
+        <source>[dgTitles, dgIndicator, dgColumnResize, dgTabs, dgRowSelect, dgConfirmDelete, dgCancelOnExit, dgTitleClick, dgTitleHotTrack]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.ReadOnly" resname="O:FormCadastroVeiculos.O:DBGrid1.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328125</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.TabOrder" resname="O:FormCadastroVeiculos.O:DBGrid1.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Charset" resname="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Color" resname="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Height" resname="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Name" resname="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Style" resname="O:FormCadastroVeiculos.O:DBGrid1.TitleFont.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Expanded" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Expanded">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].FieldName" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].FieldName">
+        <source>'CAT_VEI'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">179</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Title.Caption" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Title.Caption">
+        <source>'Veículo'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Width" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Width">
+        <source>85</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Visible" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[0].Visible">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Expanded" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Expanded">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].FieldName" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].FieldName">
+        <source>'CAT_CAT'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Title.Caption" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Title.Caption">
+        <source>'Catraca Atual'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Width" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Width">
+        <source>76</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Visible" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[1].Visible">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Expanded" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Expanded">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].FieldName" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].FieldName">
+        <source>'CAT_LACRE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Title.Caption" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Title.Caption">
+        <source>'Lacre'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Width" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Width">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328241</prop><prop prop-type="Status">0</prop><prop prop-type="Order">191</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Visible" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[2].Visible">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Expanded" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Expanded">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].FieldName" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].FieldName">
+        <source>'CAT_DATA'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Title.Caption" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Title.Caption">
+        <source>'Ult. Data'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Width" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Width">
+        <source>110</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Visible" resname="O:FormCadastroVeiculos.O:DBGrid1.Columns[3].Visible">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">197</prop><prop prop-type="Type">C:TDBGrid</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtVeiculos.DataSet" resname="O:FormCadastroVeiculos.O:DtVeiculos.DataSet">
+        <source>Pai.QrVeiculos</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtVeiculos.Left" resname="O:FormCadastroVeiculos.O:DtVeiculos.Left">
+        <source>264</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtVeiculos.Top" resname="O:FormCadastroVeiculos.O:DtVeiculos.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtColigada.DataSet" resname="O:FormCadastroVeiculos.O:DtColigada.DataSet">
+        <source>Pai.QrColigadas</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtColigada.Left" resname="O:FormCadastroVeiculos.O:DtColigada.Left">
+        <source>312</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtColigada.Top" resname="O:FormCadastroVeiculos.O:DtColigada.Top">
+        <source>48</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtCat.DataSet" resname="O:FormCadastroVeiculos.O:DtCat.DataSet">
+        <source>Pai.QrVeiCat</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtCat.Left" resname="O:FormCadastroVeiculos.O:DtCat.Left">
+        <source>256</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:FormCadastroVeiculos.O:DtCat.Top" resname="O:FormCadastroVeiculos.O:DtCat.Top">
+        <source>176</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">40426.7617328357</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

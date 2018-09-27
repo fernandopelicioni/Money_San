@@ -1,0 +1,81 @@
+unit UnPai;
+
+interface
+
+uses
+  SysUtils, Classes, DB, ADODB;
+
+type
+  TPai = class(TDataModule)
+    Genoma: TADOConnection;
+    QrMovBcd: TADOQuery;
+    QrLinhas: TADOQuery;
+    QrTipLin: TADOQuery;
+    QrAcertador: TADOQuery;
+    QrVeiculos: TADOQuery;
+    QrVeiCat: TADOQuery;
+    QrLinhasCompletas: TADOQuery;
+    QrParam: TADOQuery;
+    QrUsuarios: TADOQuery;
+    QrColigadas: TADOQuery;
+    QrColigadasCOD_COLIGADA: TWordField;
+    QrColigadasDES_COLIGADA: TWideStringField;
+    QrColigadasCGC_COLIGADA: TWideStringField;
+    QrColigadasLOGO: TBlobField;
+    QrColigadasPERFIL: TWideStringField;
+    QrUsuariosUSU_CODIGO: TWordField;
+    QrUsuariosUSU_LOGIN: TWideStringField;
+    QrUsuariosUSU_SENHA: TWideStringField;
+    QrUsuariosUSU_PERFIL: TWideStringField;
+    QrUsuariosUSU_NIVEL: TWordField;
+    QrProfissionais: TADOQuery;
+    QrTipLinTLI_COD: TWordField;
+    QrTipLinTLI_DES: TStringField;
+    QrTipLinTLI_TARIFAATUAL: TBCDField;
+    QrTipLinTLI_TARIFAANTERIOR: TBCDField;
+    QrTipLinTLI_TARIFADESCONTO: TBCDField;
+    QrTipLinTLI_TARIFADESCONTOANTERIOR: TBCDField;
+    QrTipLinTLI_COLIGADA: TWordField;
+    QrTipLinCompl: TADOQuery;
+    QrVales: TADOQuery;
+    QrPro: TADOQuery;
+    QrPmc: TADOQuery;
+    QrCaixa: TADOQuery;
+    QrMotCan: TADOQuery;
+    QrTaloes: TADOQuery;
+    QrTipLinTLI_TALAO: TWideStringField;
+    QrTemp: TADOQuery;
+    QrBcd: TADOQuery;
+    QrBcdTBCD_COD: TIntegerField;
+    QrBcdTBCD_DATA: TDateTimeField;
+    QrBcdTBCD_FUNC: TSmallintField;
+    QrBcdTBCD_LINHA: TIntegerField;
+    QrBcdTBCD_DTSIS: TDateTimeField;
+    QrBcdTBCD_COLIGADA: TWordField;
+    QrBcdTBCD_STATUS: TWideStringField;
+    QrBcdTBCD_TIPO: TWideStringField;
+    QrDebitos: TADOQuery;
+    QrDebitoschapa: TWideStringField;
+    QrDebitosNom_pro: TWideStringField;
+    QrDebitosMdf_Valor: TBCDField;
+    QrDebitosMdf_data: TDateTimeField;
+    QrDebitosMdf_Status: TWideStringField;
+    QrDebitosMdf_DtRec: TDateTimeField;
+    QrDebitosMdf_Usuario: TWordField;
+    QrMotDebito: TADOQuery;
+    QrDebitosMdf_MotBaixa: TWordField;
+    QrAcessos: TADOQuery;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Pai: TPai;
+
+implementation
+
+{$R *.dfm}
+
+end.

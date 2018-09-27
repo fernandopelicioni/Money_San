@@ -1,0 +1,61 @@
+unit UnitLicanca;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, DB, ADODB, StdCtrls, Buttons;
+
+type
+  TFormLicenca = class(TForm)
+    Edit1: TEdit;
+    Label1: TLabel;
+    BitBtn1: TBitBtn;
+    Edit2: TEdit;
+    Label2: TLabel;
+    Label3: TLabel;
+    Edit3: TEdit;
+    QrParamGlobais: TADOQuery;
+    procedure BitBtn1Click(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormLicenca: TFormLicenca;
+
+implementation
+
+uses UnPai;
+
+{$R *.dfm}
+
+procedure TFormLicenca.BitBtn1Click(Sender: TObject);
+var
+dia,mes,ano:string;
+begin
+        dia:=Copy(Edit2.Text,42,2);
+        mes:=Copy(Edit2.Text,44,2);
+        ano:=Copy(Edit2.Text,46,4);
+        showmessage(Dia+'/'+mes+'/'+ano);
+
+         With QrParamGlobais do
+              begin
+                     Close;
+                     Sql.Clear;
+                     Sql.Add('update tb_paramglobais set Ativacao = ' + QuotedStr(dia+'/'+mes+'/'+ano));
+                     ExecSQL;
+              end;
+
+        showmessage(Dia+'/'+mes+'/'+ano);
+end;
+
+procedure TFormLicenca.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+action:=cafree;
+end;
+
+end.

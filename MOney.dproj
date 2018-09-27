@@ -1,0 +1,275 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{8B39E526-749D-44B8-AA83-1F0BA398B7BE}</ProjectGuid>
+			<ProjectVersion>12.2</ProjectVersion>
+			<MainSource>MOney.dpr</MainSource>
+			<Config Condition="'$(Config)'==''">Debug</Config>
+			<DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+			<Base>True</Base>
+			<Platform>Win32</Platform>
+			<AppType>Application</AppType>
+			<FrameworkType>VCL</FrameworkType>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_UsePackage>vclimg;vcl;vclx;dbrtl;Rave90VCL;bdertl;rtl;xmlrtl;vclactnband;VclSmp;svnui;svn;TeeUI;TeeDB;Tee;vcldb;vcldbx;vcltouch;dsnap;dsnapcon;vclib;ibxpress;adortl;IndyCore;IndySystem;IndyProtocols;inet;intrawebdb_110_150;Intraweb_110_150;vclie;websnap;webdsnap;inetdb;inetdbbde;inetdbxpress;soaprtl;vclribbon;dbexpress;DbxCommonDriver;DataSnapIndy10ServerTransport;DataSnapProviderClient;DbxClientDriver;DataSnapClient;dbxcds;DataSnapServer;AzureCloud;DBXInterBaseDriver;DBXMySQLDriver;DBXFirebirdDriver;DBXSybaseASEDriver;DBXSybaseASADriver;DBXOracleDriver;DBXMSSQLDriver;DBXInformixDriver;DBXDb2Driver;CodeSiteExpressVcl</DCC_UsePackage>
+			<DCC_OutputDRCFile>true</DCC_OutputDRCFile>
+			<DCC_DependencyCheckOutputName>MOney.exe</DCC_DependencyCheckOutputName>
+			<DCC_ImageBase>00400000</DCC_ImageBase>
+			<DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;$(DCC_UnitAlias)</DCC_UnitAlias>
+			<DCC_Platform>x86</DCC_Platform>
+			<DCC_E>false</DCC_E>
+			<DCC_N>false</DCC_N>
+			<DCC_S>false</DCC_S>
+			<DCC_F>false</DCC_F>
+			<DCC_K>false</DCC_K>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+			<DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+			<DCC_DebugInformation>false</DCC_DebugInformation>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="MOney.dpr">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="UnitIniciaSistema.pas">
+				<Form>FormIniciaSistema</Form>
+			</DCCReference>
+			<DCCReference Include="UnPai.pas">
+				<Form>Pai</Form>
+				<DesignClass>TDataModule</DesignClass>
+			</DCCReference>
+			<DCCReference Include="telaentrada.pas">
+				<Form>formEntrada</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancamento.pas">
+				<Form>FormLancamento</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastraLinha.pas">
+				<Form>FormCadastraLinha</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastraTipoLinha.pas">
+				<Form>FormCadastraTipoLinha</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastraParam.pas">
+				<Form>FormCadastraParam</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastroVeiculos.pas">
+				<Form>FormCadastroVeiculos</Form>
+			</DCCReference>
+			<DCCReference Include="UnitDadosMov.pas">
+				<Form>FormDadosMov</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastraCaixa.pas">
+				<Form>FormCadastraCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="UnitRelatorio.pas">
+				<Form>Relatorio</Form>
+			</DCCReference>
+			<DCCReference Include="UnitConsultaveiculos.pas">
+				<Form>FormConsultaVeiculos</Form>
+			</DCCReference>
+			<DCCReference Include="UnitRelatorioCentral.pas">
+				<Form>FormRelatorioCentral</Form>
+			</DCCReference>
+			<DCCReference Include="UnitGrafico1.pas">
+				<Form>FormGrafico1</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastraOcorrencia.pas">
+				<Form>FormCadastraOcorrencias</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancaDebito.pas">
+				<Form>FormLancaDebito</Form>
+			</DCCReference>
+			<DCCReference Include="UnitGrafico2.pas">
+				<Form>FormGrafico2</Form>
+			</DCCReference>
+			<DCCReference Include="UnitConsultaBcd.pas">
+				<Form>FormConsultaBcd</Form>
+			</DCCReference>
+			<DCCReference Include="UnitGeraArquivo.pas">
+				<Form>FormGeraArquivo</Form>
+			</DCCReference>
+			<DCCReference Include="UnitValidaCatraca.pas">
+				<Form>FormValidaCatraca</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancaPmc.pas">
+				<Form>FormLancaPMC</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancamentoBSE.pas">
+				<Form>FormLancamentoBSE</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancaPrestacao.pas">
+				<Form>FormLancaPrestacao</Form>
+			</DCCReference>
+			<DCCReference Include="UnitDadosConf.pas">
+				<Form>FormDadosConf</Form>
+			</DCCReference>
+			<DCCReference Include="UnitAbreCaixa.pas">
+				<Form>FormAbreCaixa</Form>
+			</DCCReference>
+			<DCCReference Include="Utraducao.pas"/>
+			<DCCReference Include="UnitDebito.pas">
+				<Form>FormDebito</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancamentoBuscaPro.pas">
+				<Form>FormLancamentoBuscaPro</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLancamentoUltimasCatracas.pas">
+				<Form>FormLancamentoUltimasCatracas</Form>
+			</DCCReference>
+			<DCCReference Include="UnitRelatorioBoletimGerado.pas">
+				<Form>FormRelatorioBoletimGerado</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCancelaBcd.pas">
+				<Form>FormCancelaBcd</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLiberaTaloes.pas">
+				<Form>FormLancaTaloes</Form>
+			</DCCReference>
+			<DCCReference Include="UnitSelecionaTalao.pas">
+				<Form>FormSelecionaTalao</Form>
+			</DCCReference>
+			<DCCReference Include="UnirRelatorioBuscaTalao.pas">
+				<Form>FormRelatorioBuscaTalao</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastroLinha.pas">
+				<Form>FormCadastroLinha</Form>
+			</DCCReference>
+			<DCCReference Include="UnitRelatorioEstatistico.pas">
+				<Form>FormRelatorioEstatistico</Form>
+			</DCCReference>
+			<DCCReference Include="UnitRelatorioListaDebito.pas">
+				<Form>FormRelatorioListaDebito</Form>
+			</DCCReference>
+			<DCCReference Include="UnitBaixaDebitos.pas">
+				<Form>FormBaixaDebitos</Form>
+			</DCCReference>
+			<DCCReference Include="UnitAutorizaBaixa.pas">
+				<Form>FormAutorizaBaixa</Form>
+			</DCCReference>
+			<DCCReference Include="UnitAcessos.pas">
+				<Form>FORMACESS</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLiberaBcd.pas">
+				<Form>FormLiberaBcd</Form>
+			</DCCReference>
+			<DCCReference Include="Unit2ViaRecibo.pas">
+				<Form>Form2ViaRecibo</Form>
+			</DCCReference>
+			<DCCReference Include="UnitAlteraDataBoletim.pas">
+				<Form>FormAlteraDataBoletim</Form>
+			</DCCReference>
+			<DCCReference Include="UnitImportaColaborador.pas">
+				<Form>FormImportaColaborador</Form>
+			</DCCReference>
+			<DCCReference Include="UnitCadastraPro.pas">
+				<Form>FormCadastraPro</Form>
+			</DCCReference>
+			<DCCReference Include="UnitLicanca.pas">
+				<Form>FormLicenca</Form>
+			</DCCReference>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')" Project="$(BDS)\Bin\CodeGear.Delphi.Targets"/>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\8.0\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\8.0\UserTools.proj"/>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Delphi.Personality>
+					<Source>
+						<Source Name="MainSource">MOney.dpr</Source>
+					</Source>
+					<Parameters/>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">True</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">5</VersionInfo>
+						<VersionInfo Name="Build">41</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1046</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName">Genoma Software</VersionInfoKeys>
+						<VersionInfoKeys Name="FileDescription">Aplicativo de Controle</VersionInfoKeys>
+						<VersionInfoKeys Name="FileVersion">1.0.5.41</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+					</VersionInfoKeys>
+					<Language>
+						<Language Name="ProjectLang">$00000416</Language>
+					</Language>
+					<Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\bcboffice2k150.bpl">Embarcadero C++Builder Office 2000 Servers Package</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\bcbofficexp150.bpl">Embarcadero C++Builder Office XP Servers Package</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dcloffice2k150.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dclofficexp150.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+					</Excluded_Packages>
+					<Resource_DLL_Projects>
+						<Resource_DLL_Projects Name="Item0">Português (Brasil)*$00000416*PTB*PTB</Resource_DLL_Projects>
+					</Resource_DLL_Projects>
+					<RDP_Source_Files>
+						<RDP_Source_Files Name="Item0">UnitIniciaSistema.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item1">UnPai.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item2">telaentrada.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item3">UnitLancamento.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item4">UnitCadastraLinha.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item5">UnitCadastraTipoLinha.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item6">UnitCadastraParam.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item7">UnitCadastroVeiculos.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item8">UnitDadosMov.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item9">UnitCadastraCaixa.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item10">UnitRelatorio.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item11">UnitConsultaveiculos.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item12">TelaConsultaBcd.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item13">UnitRelatorioCentral.dfm</RDP_Source_Files>
+						<RDP_Source_Files Name="Item14">MOney.drc</RDP_Source_Files>
+					</RDP_Source_Files>
+				</Delphi.Personality>
+				<Platforms>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

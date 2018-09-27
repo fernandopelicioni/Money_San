@@ -1,0 +1,59 @@
+program MOney;
+
+uses
+  Forms,
+  UnitIniciaSistema in 'UnitIniciaSistema.pas' {FormIniciaSistema},
+  UnPai in 'UnPai.pas' {Pai: TDataModule},
+  telaentrada in 'telaentrada.pas' {formEntrada},
+  UnitLancamento in 'UnitLancamento.pas' {FormLancamento},
+  UnitCadastraLinha in 'UnitCadastraLinha.pas' {FormCadastraLinha},
+  UnitCadastraTipoLinha in 'UnitCadastraTipoLinha.pas' {FormCadastraTipoLinha},
+  UnitCadastraParam in 'UnitCadastraParam.pas' {FormCadastraParam},
+  UnitCadastroVeiculos in 'UnitCadastroVeiculos.pas' {FormCadastroVeiculos},
+  UnitDadosMov in 'UnitDadosMov.pas' {FormDadosMov},
+  UnitCadastraCaixa in 'UnitCadastraCaixa.pas' {FormCadastraCaixa},
+  UnitRelatorio in 'UnitRelatorio.pas' {Relatorio},
+  UnitConsultaveiculos in 'UnitConsultaveiculos.pas' {FormConsultaVeiculos},
+  UnitRelatorioCentral in 'UnitRelatorioCentral.pas' {FormRelatorioCentral},
+  UnitGrafico1 in 'UnitGrafico1.pas' {FormGrafico1},
+  UnitCadastraOcorrencia in 'UnitCadastraOcorrencia.pas' {FormCadastraOcorrencias},
+  UnitLancaDebito in 'UnitLancaDebito.pas' {FormLancaDebito},
+  UnitGrafico2 in 'UnitGrafico2.pas' {FormGrafico2},
+  UnitConsultaBcd in 'UnitConsultaBcd.pas' {FormConsultaBcd},
+  UnitGeraArquivo in 'UnitGeraArquivo.pas' {FormGeraArquivo},
+  UnitValidaCatraca in 'UnitValidaCatraca.pas' {FormValidaCatraca},
+  UnitLancaPmc in 'UnitLancaPmc.pas' {FormLancaPMC},
+  UnitLancamentoBSE in 'UnitLancamentoBSE.pas' {FormLancamentoBSE},
+  UnitLancaPrestacao in 'UnitLancaPrestacao.pas' {FormLancaPrestacao},
+  UnitDadosConf in 'UnitDadosConf.pas' {FormDadosConf},
+  UnitAbreCaixa in 'UnitAbreCaixa.pas' {FormAbreCaixa},
+  Utraducao in 'Utraducao.pas',
+  UnitDebito in 'UnitDebito.pas' {FormDebito},
+  UnitLancamentoBuscaPro in 'UnitLancamentoBuscaPro.pas' {FormLancamentoBuscaPro},
+  UnitLancamentoUltimasCatracas in 'UnitLancamentoUltimasCatracas.pas' {FormLancamentoUltimasCatracas},
+  UnitRelatorioBoletimGerado in 'UnitRelatorioBoletimGerado.pas' {FormRelatorioBoletimGerado},
+  UnitCancelaBcd in 'UnitCancelaBcd.pas' {FormCancelaBcd},
+  UnitLiberaTaloes in 'UnitLiberaTaloes.pas' {FormLancaTaloes},
+  UnitSelecionaTalao in 'UnitSelecionaTalao.pas' {FormSelecionaTalao},
+  UnirRelatorioBuscaTalao in 'UnirRelatorioBuscaTalao.pas' {FormRelatorioBuscaTalao},
+  UnitCadastroLinha in 'UnitCadastroLinha.pas' {FormCadastroLinha},
+  UnitRelatorioEstatistico in 'UnitRelatorioEstatistico.pas' {FormRelatorioEstatistico},
+  UnitRelatorioListaDebito in 'UnitRelatorioListaDebito.pas' {FormRelatorioListaDebito},
+  UnitBaixaDebitos in 'UnitBaixaDebitos.pas' {FormBaixaDebitos},
+  UnitAutorizaBaixa in 'UnitAutorizaBaixa.pas' {FormAutorizaBaixa},
+  UnitAcessos in 'UnitAcessos.pas' {FORMACESS};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+//  Application.Title := 'Center Bus - Revisão de Frotas';
+  Application.CreateForm(TPai, Pai);
+  Application.CreateForm(TFormIniciaSistema, FormIniciaSistema);
+  Application.CreateForm(TRelatorio, Relatorio);
+  Application.CreateForm(TFORMACESS, FORMACESS);
+  TTraducao.ChangeValues;
+  Application.run
+  end.
+

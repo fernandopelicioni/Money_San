@@ -1,0 +1,626 @@
+unit telaentrada;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, Menus, ActnColorMaps, ActnMan, ToolWin, ActnCtrls, jpeg,
+  ExtCtrls, ComCtrls, XPMan, Buttons, StdCtrls, DB, DBTables, Ribbon, ActnMenus,
+  RibbonActnMenus, ImgList, ActnList, RibbonSilverStyleActnCtrls,
+  RibbonObsidianStyleActnCtrls, RibbonLunaStyleActnCtrls;
+
+type
+  TformEntrada = class(TForm)
+    MainMenu1: TMainMenu;
+    Configuraes1: TMenuItem;
+    Movimentaes1: TMenuItem;
+    Relatrios1: TMenuItem;
+    Cadastros1: TMenuItem;
+    Funcionrios1: TMenuItem;
+    Veculos1: TMenuItem;
+    Linhas1: TMenuItem;
+    Desligar1: TMenuItem;
+    StandardColorMap1: TStandardColorMap;
+    StatusBar1: TStatusBar;
+    LanamentodeBcds1: TMenuItem;
+    XPManifest1: TXPManifest;
+    Sobre1: TMenuItem;
+    SobreoSistema1: TMenuItem;
+    ConsultaMovimentao1: TMenuItem;
+    Definies1: TMenuItem;
+    N1: TMenuItem;
+    N2: TMenuItem;
+    N3: TMenuItem;
+    N4: TMenuItem;
+    Usurios1: TMenuItem;
+    Cadastros2: TMenuItem;
+    Veculos2: TMenuItem;
+    Linhas2: TMenuItem;
+    Funcionrios2: TMenuItem;
+    Movimentaes2: TMenuItem;
+    FechamentoDirio1: TMenuItem;
+    Analiseporlinhas1: TMenuItem;
+    N5: TMenuItem;
+    GerarArquivoparaIntegraoCSV1: TMenuItem;
+    SequnciadeCatracas1: TMenuItem;
+    LanamentodeBcdsFULLTELA1: TMenuItem;
+    LanamentoSELETIVO1: TMenuItem;
+    LanamentoSeletivo2: TMenuItem;
+    Empresa1: TMenuItem;
+    ToolBar1: TToolBar;
+    SpeedButton2: TSpeedButton;
+    SpeedButton3: TSpeedButton;
+    BitBtn1: TBitBtn;
+    ToolButton1: TToolButton;
+    bandeira: TImage;
+    ImportarFuncionarios1: TMenuItem;
+    HabilitaodeLotes1: TMenuItem;
+    AlteraodeDadosdoBCD1: TMenuItem;
+    ActionManager1: TActionManager;
+    accadLin: TAction;
+    AcDefi: TAction;
+    AchabLot: TAction;
+    acmovcaixa: TAction;
+    AcConsulta: TAction;
+    Action1: TAction;
+    Action2: TAction;
+    Action3: TAction;
+    Action4: TAction;
+    ImageList1: TImageList;
+    Ribbon1: TRibbon;
+    RibbonApplicationMenuBar1: TRibbonApplicationMenuBar;
+    RibbonQuickAccessToolbar1: TRibbonQuickAccessToolbar;
+    RibbonPage1: TRibbonPage;
+    RibbonGroup1: TRibbonGroup;
+    RibbonPage2: TRibbonPage;
+    RibbonGroup2: TRibbonGroup;
+    RibbonPage3: TRibbonPage;
+    RibbonGroup3: TRibbonGroup;
+    RibbonGroup4: TRibbonGroup;
+    AcCadTipLin: TAction;
+    AcCadCai: TAction;
+    Action5: TAction;
+    Action6: TAction;
+    RibbonPage4: TRibbonPage;
+    RibbonGroup5: TRibbonGroup;
+    ImageList3: TImageList;
+    DtColigada: TDataSource;
+    Action7: TAction;
+    AcVeiCat: TAction;
+    Action8: TAction;
+    RibbonGroup6: TRibbonGroup;
+    DadosColigada: TBitBtn;
+    Action9: TAction;
+    AcConBcd: TAction;
+    AcExport: TAction;
+    AcValida: TAction;
+    Action11: TAction;
+    AcLancaPrestacao: TAction;
+    aCaBREcAIXA: TAction;
+    RibbonGroup7: TRibbonGroup;
+    RibbonGroup8: TRibbonGroup;
+    Action10: TAction;
+    Action12: TAction;
+    Action13: TAction;
+    Action14: TAction;
+    Action15: TAction;
+    Action16: TAction;
+    Action17: TAction;
+    Memo1: TMemo;
+    Action18: TAction;
+    Action19: TAction;
+    Action20: TAction;
+    Label1: TLabel;
+    Action21: TAction;
+    Action22: TAction;
+    RibbonGroup9: TRibbonGroup;
+    Action23: TAction;
+    Action24: TAction;
+    Action25: TAction;
+    procedure Linhas1Click(Sender: TObject);
+    procedure LanamentodeBcds1Click(Sender: TObject);
+    procedure ConsultaMovimentao1Click(Sender: TObject);
+    procedure Definies1Click(Sender: TObject);
+    procedure Analiseporlinhas1Click(Sender: TObject);
+    procedure SequnciadeCatracas1Click(Sender: TObject);
+    procedure GerarArquivoparaIntegraoCSV1Click(Sender: TObject);
+    procedure LanamentodeBcdsFULLTELA1Click(Sender: TObject);
+    procedure LanamentoSELETIVO1Click(Sender: TObject);
+    procedure LanamentoSeletivo2Click(Sender: TObject);
+    procedure Empresa1Click(Sender: TObject);
+    procedure FormActivate(Sender: TObject);
+    procedure HabilitaodeLotes1Click(Sender: TObject);
+    procedure AlteraodeDadosdoBCD1Click(Sender: TObject);
+    procedure AcCadTipLinExecute(Sender: TObject);
+    procedure AcDefiExecute(Sender: TObject);
+    procedure accadLinExecute(Sender: TObject);
+    procedure acmovcaixaExecute(Sender: TObject);
+    procedure AcCadCaiExecute(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure Action5Execute(Sender: TObject);
+    procedure Action6Execute(Sender: TObject);
+    procedure Action7Execute(Sender: TObject);
+    procedure Action4Execute(Sender: TObject);
+    procedure AcVeiCatExecute(Sender: TObject);
+    procedure Action8Execute(Sender: TObject);
+    procedure SpeedButton1Click(Sender: TObject);
+    procedure DadosColigadaClick(Sender: TObject);
+    procedure Action9Execute(Sender: TObject);
+    procedure AcConBcdExecute(Sender: TObject);
+    procedure AcExportExecute(Sender: TObject);
+    procedure AcValidaExecute(Sender: TObject);
+    procedure Action11Execute(Sender: TObject);
+    procedure AcLancaPrestacaoExecute(Sender: TObject);
+    procedure aCaBREcAIXAExecute(Sender: TObject);
+    procedure Action10Execute(Sender: TObject);
+    procedure Action12Execute(Sender: TObject);
+    procedure Action13Execute(Sender: TObject);
+    procedure FormShow(Sender: TObject);
+    procedure Action14Execute(Sender: TObject);
+    procedure Action15Execute(Sender: TObject);
+    procedure Action16Execute(Sender: TObject);
+    procedure Action17Execute(Sender: TObject);
+    procedure FormKeyDown(Sender: TObject; var Key: Word; Shift: TShiftState);
+    procedure Action18Execute(Sender: TObject);
+    procedure Action19Execute(Sender: TObject);
+    procedure Action20Execute(Sender: TObject);
+    procedure Action21Execute(Sender: TObject);
+    procedure Action22Execute(Sender: TObject);
+    procedure Action23Execute(Sender: TObject);
+    procedure Action24Execute(Sender: TObject);
+    procedure Action25Execute(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    LANCARSISTEMA2:STRING;
+    nivel : word;
+    versao : string;
+    { Public declarations }
+  end;
+
+var
+  formEntrada: TformEntrada;
+
+implementation
+
+uses UnitIniciaSistema, UnitCadastraTipoLinha, UnitCadastraParam,
+  UnitCadastraLinha, UnitDadosMov, UnitCadastraCaixa, UnitCadastroVeiculos,
+  UnPai, UnitRelatorio, UnitRelatorioCentral, UnitCadastraOcorrencia,
+  UnitConsultaBcd, UnitGeraArquivo, UnitValidaCatraca, UnitLancaPmc,
+  UnitLancaPrestacao, UnitDadosConf, UnitAbreCaixa, UnitRelatorioBoletimGerado,
+  UnitCancelaBcd, UnitLiberaTaloes, UnirRelatorioBuscaTalao, UnitCadastroLinha,
+  UnitRelatorioEstatistico, UnitRelatorioListaDebito, UnitBaixaDebitos,
+  UnitAcessos, UnitLiberaBcd, Unit2ViaRecibo, UnitImportaColaborador,
+  UnitCadastraPro, UnitLicanca;
+
+
+
+{$R *.dfm}
+
+procedure TformEntrada.Linhas1Click(Sender: TObject);
+begin
+//Application.CreateForm(TformLinha, FormLinha);
+//Application.CreateForm(TEntrada, Entrada);
+end;
+
+procedure TformEntrada.LanamentodeBcds1Click(Sender: TObject);
+begin
+LANCARSISTEMA2:='TRANSCOL';
+//Application.CreateForm(Tforminfo, forminfo);
+//forminfo.tipotela:='pequena';
+//formINFO.show;
+end;
+
+procedure TformEntrada.ConsultaMovimentao1Click(Sender: TObject);
+begin
+//Application.CreateForm(TFormConsultaMovimento, FormConsultaMovimento);
+//FormConsultaMovimento.Show;
+end;
+
+procedure TformEntrada.Definies1Click(Sender: TObject);
+begin
+//Application.CreateForm(TFormPermissao, Formpermissao);
+//FormPermissao.Show;
+end;
+
+procedure TformEntrada.Analiseporlinhas1Click(Sender: TObject);
+begin
+//Application.CreateForm(TFormDadosRelatorio, FormDadosRelatorio);
+//FormDadosRelatorio.Show;
+end;
+
+procedure TformEntrada.DadosColigadaClick(Sender: TObject);
+begin
+with pai.QrParam do
+       begin
+            Close;
+            Sql.Clear;
+             Sql.Add('select * from Tb_MonTipLin A, Tb_MonpARAM B');
+              sql.Add('Where B.Par_Cod = A.Tli_cod');
+               Sql.Add('And A.Tli_coligada = ' + QuotedStr(Pai.QrColigadas.FieldByName('Cod_Coligada').AsString));
+                Open;
+       end;
+with pai.QrAcertador do
+     begin
+           Close;
+           Sql.Clear;
+            Sql.Add('select * from Tb_MonAce');
+             sql.Add('where Ace_Coligada = ' + QuotedStr(Pai.QrColigadas.FieldByName('Cod_Coligada').AsString));
+              Open;
+    end;
+with pai.QrLinhas do
+     begin
+           Close;
+           Sql.Clear;
+            Sql.Add('select * from Tb_MonLin');
+             sql.Add('where Lin_Coligada = ' + QuotedStr(Pai.QrColigadas.FieldByName('Cod_Coligada').AsString));
+              Open;
+
+     end;
+
+end;
+
+procedure TformEntrada.SequnciadeCatracas1Click(Sender: TObject);
+begin
+//Application.CreateForm(TFormSequenciaCatraca, FormSequenciaCatraca);
+//FormSequenciaCatraca.show;
+end;
+
+procedure TformEntrada.SpeedButton1Click(Sender: TObject);
+begin
+if messagedlg('51515161',MtConfirmation,[mbyes,mbno],0) = mryes then
+   begin
+       close;
+   end;
+
+end;
+
+procedure TformEntrada.GerarArquivoparaIntegraoCSV1Click(Sender: TObject);
+begin
+//Application.CreateForm(TFormGeraArquivo, FormGeraArquivo);
+//FormGeraArquivo.Show;
+
+end;
+
+procedure TformEntrada.LanamentodeBcdsFULLTELA1Click(Sender: TObject);
+begin
+{lANCARSISTEMA2:='TRANSCOL';
+forminfo.tipotela:='grande';
+forminfo.Show;}
+end;
+
+procedure TformEntrada.LanamentoSELETIVO1Click(Sender: TObject);
+begin
+{lANCARSISTEMA2:='SELETIVO';
+forminfo.tipotela:='grande';
+forminfo.Show;}
+
+end;
+
+procedure TformEntrada.LanamentoSeletivo2Click(Sender: TObject);
+begin
+//Application.CreateForm(TformINFO, formINFO);
+LANCARSISTEMA2:='SELETIVO';
+//forminfo.tipotela:='pequena';
+//formINFO.show;
+end;
+
+procedure TformEntrada.Empresa1Click(Sender: TObject);
+begin
+//formempresa.show;
+end;
+
+procedure TformEntrada.FormActivate(Sender: TObject);
+begin
+versao:=FormIniciaSistema.EditVersao.caption;
+Ribbon1.Caption :='Money ® - Controle de Arrecadação - ' + versao + ' - Coligada : ' + DtColigada.DataSet.FieldByName('Des_Coligada').AsString;
+bandeira.left:=Trunc((FormEntrada.width - bandeira.Width) / 2);
+bandeira.top:=Trunc((FormEntrada.Height - bandeira.Height) / 2);
+Label1.Caption:='Coligada: ' + DtColigada.DataSet.FieldByName('des_coligada').AsString;
+end;
+
+procedure TformEntrada.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+Pai.genoma.Close;
+Application.Terminate;
+end;
+
+procedure TformEntrada.FormKeyDown(Sender: TObject; var Key: Word;
+  Shift: TShiftState);
+begin
+if key = Vk_f11 then
+    memo1.Visible:=true;
+
+end;
+
+procedure TformEntrada.FormShow(Sender: TObject);
+begin
+bandeira.left:=Trunc((FormEntrada.width - bandeira.Width) / 2);
+bandeira.top:=Trunc((FormEntrada.Height - bandeira.Height) / 2);
+formEntrada.StatusBar1.Panels[0].text:=' Usuário : ' + Pai.QrUsuarios.FieldByName('Usu_Login').AsString;
+end;
+
+procedure TformEntrada.HabilitaodeLotes1Click(Sender: TObject);
+begin
+//Application.CreateForm(TFormCriaLotes, FormCriaLotes);
+//FormCriaLotes.show;
+end;
+
+procedure TformEntrada.aCaBREcAIXAExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormAbreCaixa,FormAbreCaixa);
+FormAbreCaixa.showmodal;
+
+
+end;
+
+procedure TformEntrada.AcCadCaiExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormCadastraCaixa,FormCadastraCaixa);
+FormCadastraCaixa.showmodal;
+end;
+
+procedure TformEntrada.accadLinExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormCadastraLinha,FormCadastraLinha);
+FormCadastraLinha.showmodal;
+end;
+
+procedure TformEntrada.AcCadTipLinExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormCadastraTipoLinha,FormCadastraTipoLinha);
+FormCadastraTipoLinha.ShowModal;
+end;
+
+procedure TformEntrada.AcDefiExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormCadastraParam,FormCadastraParam);
+FormCadastraParam.ShowModal;
+end;
+
+procedure TformEntrada.acmovcaixaExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormDadosMov,FormDadosMov);
+FormDadosMov.showmodal;
+end;
+
+procedure TformEntrada.AcConBcdExecute(Sender: TObject);
+begin
+Application.CreateForm(TFormConsultaBcd,FormConsultaBcd);
+FormConsultaBcd.ShowModal;
+end;
+
+procedure TformEntrada.Action10Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormRelatorioBoletimGerado,FormRelatorioBoletimGerado);
+FormRelatorioBoletimGerado.ShowModal;
+
+
+end;
+
+procedure TformEntrada.Action11Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormLancaPMC,FormLancaPMC);
+FormLancaPMC.ShowModal;
+
+end;
+
+procedure TformEntrada.Action12Execute(Sender: TObject);
+begin
+            With Relatorio.QrCaixa do
+                 begin
+                      Close;
+                      Parameters.ParamByName('coligada').Value:=DtColigada.DataSet.FieldByName('cod_coligada').AsString;
+                      Open;
+                      if Not Eof then
+                         begin
+                                Relatorio.Projeto.SetParam('Versao',FormIniciaSistema.EditVersao.Caption);
+                                Relatorio.Projeto.ExecuteReport('RvCaixa');
+                                Relatorio.Projeto.Close;
+                         end
+                         else
+                         MessageBox(0, 'Não existem dados para emissão do Relatorio', 'Dados não Encontrados', MB_ICONASTERISK or MB_OK);
+                 end;
+
+end;
+
+procedure TformEntrada.Action13Execute(Sender: TObject);
+begin
+      Application.CreateForm(TFormCancelabcd,FormCancelabcd);
+      FormCancelabcd.ShowModal;
+
+end;
+
+procedure TformEntrada.Action14Execute(Sender: TObject);
+begin
+      Application.CreateForm(TFormLancaTaloes,FormLancaTaloes);
+      FormLancaTaloes.ShowModal;
+end;
+
+procedure TformEntrada.Action15Execute(Sender: TObject);
+begin
+      Application.CreateForm(TFormRelatorioBuscaTalao,FormRelatorioBuscaTalao);
+      FormRelatorioBuscaTalao.showmodal;
+end;
+
+procedure TformEntrada.Action16Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormLiberaBcd, FormLiberaBcd);
+FormLiberaBcd.showmodal;
+end;
+
+procedure TformEntrada.Action17Execute(Sender: TObject);
+begin
+//if Pai.QrUsuarios.FieldByName('Usu_Nivel').AsInteger > 19 then
+//      begin
+            Application.CreateForm(TFormRelatorioEstatistico,FormRelatorioEstatistico);
+            FormRelatorioEstatistico.showmodal;
+//      end
+//      else
+//      MessageBox(0, 'Somente usuarios Mestre ou Administradores tem acesso a esses relatórios!', 'Não Autorizado', MB_ICONSTOP or MB_OK);
+end;
+
+procedure TformEntrada.Action18Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormRelatorioListaDebito,FormRelatorioListaDebito);
+FormRelatorioListaDebito.showmodal;
+end;
+
+procedure TformEntrada.Action19Execute(Sender: TObject);
+begin
+        with Pai.QrAcessos do
+             begin
+                  Close;
+                  Parameters.ParamByName('usuario').Value:=Pai.QrUsuarios.FieldByName('Usu_Codigo').AsString;
+                  Open;
+                  if Not Eof then
+                        begin
+                              Application.CreateForm(TFormAcess, FormAcess);
+                              FormAcess.ShowModal;
+                        end
+                        else
+                        begin
+                               MessageBox(0, 'Usuário não tem poder para executar esta tarefa!', 'Acesso Negado', MB_ICONERROR or MB_OK);
+                        end;
+             end;
+
+
+end;
+
+procedure TformEntrada.Action20Execute(Sender: TObject);
+begin
+         Application.CreateForm(TFormImportaColaborador,FormImportaColaborador);
+         FormImportaColaborador.showmodal;
+end;
+
+procedure TformEntrada.Action21Execute(Sender: TObject);
+begin
+      Application.CreateForm(TForm2ViaRecibo,Form2ViaRecibo);
+      Form2ViaRecibo.ShowModal;
+
+
+end;
+
+procedure TformEntrada.Action22Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormImportaColaborador,FormImportaColaborador);
+FormImportaColaborador.showmodal;
+//Application.CreateForm(TFormCadastraPro,FormCadastraPro);
+//FormCadastraPro.showmodal;
+
+end;
+
+procedure TformEntrada.Action23Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormCadastraPro,FormCadastraPro);
+FormCadastraPro.showmodal;
+
+end;
+
+procedure TformEntrada.Action24Execute(Sender: TObject);
+begin
+      Application.CreateForm(TFormLicenca,FormLicenca);
+      FormLicenca.ShowModal;
+
+end;
+
+procedure TformEntrada.Action25Execute(Sender: TObject);
+begin
+     memo1.Visible:=true;
+end;
+
+procedure TformEntrada.AcExportExecute(Sender: TObject);
+begin
+      Application.CreateForm(TFormGeraArquivo,FormGeraArquivo);
+      FormGeraArquivo.ShowModal;
+end;
+
+procedure TformEntrada.AcLancaPrestacaoExecute(Sender: TObject);
+begin
+      //Application.CreateForm(TFormDadosConf,FormDadosConf);
+      //FormDadosConf.ShowModal;
+end;
+
+procedure TformEntrada.Action4Execute(Sender: TObject);
+begin
+      Close;
+      FormIniciaSistema.Close;
+end;
+
+procedure TformEntrada.Action5Execute(Sender: TObject);
+begin
+      Application.CreateForm(TFormCadastroVeiculos,FormCadastroVeiculos);
+      FormCadastroVeiculos.ShowModal;
+end;
+
+procedure TformEntrada.Action6Execute(Sender: TObject);
+begin
+      hide;
+      FormIniciaSistema.Show;
+end;
+
+procedure TformEntrada.Action7Execute(Sender: TObject);
+begin
+Application.CreateForm(TFormCadastroLinha,FormCadastroLinha);
+FormCadastroLinha.ShowModal;
+
+end;
+
+procedure TformEntrada.Action8Execute(Sender: TObject);
+begin
+        Application.CreateForm(TFormRelatorioCentral,FormRelatorioCentral);
+        FormRelatorioCentral.showmodal;
+end;
+
+procedure TformEntrada.Action9Execute(Sender: TObject);
+begin
+        Application.CreateForm(TFormBaixaDebitos,FormBaixaDebitos);
+        FormBaixaDebitos.ShowModal;
+end;
+
+procedure TformEntrada.AcValidaExecute(Sender: TObject);
+begin
+      Application.CreateForm(TFormValidaCatraca,FormValidaCatraca);
+      FormValidaCatraca.ShowModal;
+end;
+
+procedure TformEntrada.AcVeiCatExecute(Sender: TObject);
+begin
+with relatorio.QrCatracas do
+     begin
+             Close;
+              Sql.Clear;
+               Sql.Add('select A.Bcd_Vei, max(A.Bcd_CatFin) from tb_MonMov A');
+                Sql.Add('Where A.Bcd_Data = (select Max(B.Bcd_data) from tb_MonMov B where b.Bcd_Vei = A.Bcd_Vei)');
+                 Sql.Add('And A.Bcd_Coligada = ' + DtColigada.DataSet.FieldByName('cod_coligada').AsString);
+                 Sql.Add('Group By A.Bcd_Vei');
+                  Sql.Add('Order By A.Bcd_Vei');
+                  // memo1.Text:=sql.Text;
+                   Open;
+                    if Not eof then
+                      begin
+                             Relatorio.Projeto.SetParam('Versao',FormIniciaSistema.EditVersao.Caption);
+                              Relatorio.Projeto.ExecuteReport('RvCatracas');
+                               Relatorio.Projeto.Close;
+                      end
+                      else begin
+                             ShowMessage('Não existem Dados para geração do relatório');
+                      end;
+     end;
+end;
+
+procedure TformEntrada.AlteraodeDadosdoBCD1Click(Sender: TObject);
+var
+senha : string;
+begin
+Senha:= InputBox('Segurança','Digite a Senha MESTRE:','0 '); ;
+if senha = '4536' then begin
+//      Application.CreateForm(TFormAlteraBcd, FormAlteraBcd);
+//      FormAlteraBcd.Show;
+      End;
+
+end;
+
+end.
+
+
